@@ -928,3 +928,1274 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.10.23-10.36.37:201][240]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1186685804
 [2025.10.23-10.36.37:201][240]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1845355815
 [2025.10.23-10.36.37:207][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.23-10.37.41:756][167]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.37.58:091][785]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.38.06:811][687]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.38.11:368][171]Cmd: EDIT CUT
+[2025.10.23-10.38.11:370][171]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.38.11:377][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.10.23-10.38.11:378][171]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.38.13:736][447]Cmd: DUPLICATE
+[2025.10.23-10.38.13:736][447]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.38.30:918][275]Cmd: DUPLICATE
+[2025.10.23-10.38.30:918][275]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.38.37:051][986]Cmd: EDIT CUT
+[2025.10.23-10.38.37:052][986]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.38.37:059][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.23-10.38.37:061][986]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.38.43:990][811]Cmd: DUPLICATE
+[2025.10.23-10.38.43:990][811]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.39.17:829][836]Cmd: DELETE
+[2025.10.23-10.39.17:829][836]Cmd: ACTOR DELETE
+[2025.10.23-10.39.17:831][836]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.39.17:838][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.23-10.39.17:839][836]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.39.34:488][736]Cmd: DUPLICATE
+[2025.10.23-10.39.34:488][736]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.39.49:644][343]Cmd: DUPLICATE
+[2025.10.23-10.39.49:644][343]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.41.12:470][611]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.41.14:438][841]Cmd: DUPLICATE
+[2025.10.23-10.41.14:438][841]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.41.48:229][563]Cmd: EDIT CUT
+[2025.10.23-10.41.48:231][563]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.41.48:237][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.23-10.41.48:238][563]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.42.00:556][976]Cmd: DUPLICATE
+[2025.10.23-10.42.00:556][976]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.42.26:087][822]Cmd: DUPLICATE
+[2025.10.23-10.42.26:087][822]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.43.16:359][366]Cmd: DUPLICATE
+[2025.10.23-10.43.16:359][366]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.44.16:618][979]Cmd: DUPLICATE
+[2025.10.23-10.44.16:618][979]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.44.36:504][265]Cmd: DUPLICATE
+[2025.10.23-10.44.36:504][265]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.44.45:505][191]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.23-10.44.47:469][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.23-10.45.21:708][148]Cmd: DUPLICATE
+[2025.10.23-10.45.21:708][148]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.45.35:441][597]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-10.45.41:036][125]Cmd: TRANSACTION UNDO
+[2025.10.23-10.45.41:036][125]LogEditorTransaction: Undo Move Elements
+[2025.10.23-10.45.49:158][889]Cmd: DUPLICATE
+[2025.10.23-10.45.49:158][889]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.45.56:095][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-10.45.56:115][620]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-10.45.56:115][620]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-10.45.56:115][620]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.45.56:115][620]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-10.45.56:116][620]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-10.45.56:116][620]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2025.10.23-10.45.56:116][620]LogWorldPartition: Display: GenerateStreaming took 341 us
+[2025.10.23-10.45.56:116][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-10.45.56:116][620]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 8:45:56 PM)
+[2025.10.23-10.45.56:119][620]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.23-10.45.56:120][620]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.10.23-10.45.56:120][620]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.45.56:125][620]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-10.45.56:125][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004557s)
+[2025.10.23-10.45.56:125][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004621s)
+[2025.10.23-10.45.56:125][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-10.45.56:125][620]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-10.45.56:126][620]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-10.45.56:126][620]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-10.45.56:127][620]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-10.45.56:127][620]LogPlayLevel: PIE: World Init took: (0.002112s)
+[2025.10.23-10.45.56:133][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.23-10.45.56:134][620]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-10.45.56:134][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-10.45.56:134][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-10.45.56:134][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-10.45.56:134][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-10.45.56:134][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-10.45.56:136][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-10.45.56:236][620]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-10.45.56:237][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-10.45.56:237][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-10.45.56:237][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-10.45.56:238][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.23-10.45.56:238][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.23-10.45.56:240][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.23-10.45.56:240][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.23-10.45.56:240][620]LogInit: FAudioDevice initialized.
+[2025.10.23-10.45.56:240][620]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.10.23-10.45.56:253][620]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-10.45.56:255][620]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-15.45.56
+[2025.10.23-10.45.56:255][620]LogWorld: Bringing up level for play took: 0.002319
+[2025.10.23-10.45.56:258][620]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.23-10.45.56:278][620]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-10.45.56:278][620]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.45.56:278][620]PIE: Server logged in
+[2025.10.23-10.45.56:279][620]PIE: Play in editor total start time 0.178 seconds.
+[2025.10.23-10.47.00:173][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.47.00:174][ 24]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.47.00:174][ 24]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.47.00:174][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.47.00:185][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-10.47.00:186][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.47.00:193][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-10.47.00:194][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.23-10.47.00:195][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.10.23-10.47.00:198][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.47.00:199][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.23-10.47.00:262][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.10.23-10.47.09:468][ 28]Cmd: DUPLICATE
+[2025.10.23-10.47.09:468][ 28]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.47.32:440][450]Cmd: DUPLICATE
+[2025.10.23-10.47.32:440][450]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.47.57:894][ 89]Cmd: EDIT CUT
+[2025.10.23-10.47.57:896][ 89]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.47.57:904][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.23-10.47.57:905][ 89]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-10.48.08:392][ 90]Cmd: DUPLICATE
+[2025.10.23-10.48.08:392][ 90]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.48.46:235][119]Cmd: DUPLICATE
+[2025.10.23-10.48.46:236][119]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.48.55:070][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2025.10.23-10.48.55:079][ 67]LogWorldPartition: Display: GenerateStreaming took 357 us
+[2025.10.23-10.48.55:079][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-10.48.55:080][ 67]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 8:48:55 PM)
+[2025.10.23-10.48.55:102][ 67]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.48.55:107][ 67]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-10.48.55:107][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2025.10.23-10.48.55:107][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004392s)
+[2025.10.23-10.48.55:107][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-10.48.55:108][ 67]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-10.48.55:108][ 67]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-10.48.55:108][ 67]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-10.48.55:109][ 67]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-10.48.55:109][ 67]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2025.10.23-10.48.55:115][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.23-10.48.55:116][ 67]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-10.48.55:116][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-10.48.55:116][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-10.48.55:116][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-10.48.55:116][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-10.48.55:116][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-10.48.55:118][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-10.48.55:213][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-10.48.55:214][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-10.48.55:214][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-10.48.55:214][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-10.48.55:215][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.23-10.48.55:215][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.23-10.48.55:217][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.23-10.48.55:217][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.23-10.48.55:217][ 67]LogInit: FAudioDevice initialized.
+[2025.10.23-10.48.55:217][ 67]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.10.23-10.48.55:232][ 67]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-10.48.55:233][ 67]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-15.48.55
+[2025.10.23-10.48.55:234][ 67]LogWorld: Bringing up level for play took: 0.001855
+[2025.10.23-10.48.55:236][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.10.23-10.48.55:237][ 67]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-10.48.55:237][ 67]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.48.55:238][ 67]PIE: Server logged in
+[2025.10.23-10.48.55:238][ 67]PIE: Play in editor total start time 0.163 seconds.
+[2025.10.23-10.49.18:403][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.49.18:403][673]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.49.18:403][673]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.49.18:404][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.49.18:417][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-10.49.18:419][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.49.18:426][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-10.49.18:426][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.23-10.49.18:427][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.23-10.49.18:431][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.49.18:432][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.23-10.49.18:485][675]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.10.23-10.50.12:951][462]Cmd: EDIT CUT
+[2025.10.23-10.50.12:954][462]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.50.12:961][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.23-10.50.12:962][462]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.50.30:452][411]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-10.50.30:458][411]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2025.10.23-10.50.30:459][411]LogWorldPartition: Display: GenerateStreaming took 345 us
+[2025.10.23-10.50.30:459][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-10.50.30:459][411]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 8:50:30 PM)
+[2025.10.23-10.50.30:483][411]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.50.30:487][411]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-10.50.30:487][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004342s)
+[2025.10.23-10.50.30:487][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004438s)
+[2025.10.23-10.50.30:487][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-10.50.30:487][411]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-10.50.30:488][411]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-10.50.30:488][411]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-10.50.30:489][411]LogWorldPartition: Display: WorldPartition initialize took 987 us
+[2025.10.23-10.50.30:489][411]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2025.10.23-10.50.30:496][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.23-10.50.30:497][411]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-10.50.30:497][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-10.50.30:497][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-10.50.30:497][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-10.50.30:497][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-10.50.30:497][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-10.50.30:500][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-10.50.30:582][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-10.50.30:582][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-10.50.30:582][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-10.50.30:582][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-10.50.30:583][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.23-10.50.30:583][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.23-10.50.30:585][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.23-10.50.30:585][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.23-10.50.30:585][411]LogInit: FAudioDevice initialized.
+[2025.10.23-10.50.30:585][411]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.10.23-10.50.30:598][411]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-10.50.30:600][411]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-15.50.30
+[2025.10.23-10.50.30:600][411]LogWorld: Bringing up level for play took: 0.002016
+[2025.10.23-10.50.30:602][411]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.23-10.50.30:604][411]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-10.50.30:604][411]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.50.30:604][411]PIE: Server logged in
+[2025.10.23-10.50.30:605][411]PIE: Play in editor total start time 0.149 seconds.
+[2025.10.23-10.50.43:494][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.50.43:494][866]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.50.43:495][866]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.50.43:496][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.50.43:528][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-10.50.43:533][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.50.43:550][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.50.43:551][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.23-10.50.43:554][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.23-10.50.43:562][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.23-10.50.43:594][867]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.23-10.50.51:576][674]Cmd: DUPLICATE
+[2025.10.23-10.50.51:576][674]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.51.06:700][124]Cmd: EDIT CUT
+[2025.10.23-10.51.06:702][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.51.06:710][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.23-10.51.06:711][124]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.51.09:430][390]Cmd: DUPLICATE
+[2025.10.23-10.51.09:430][390]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.52.19:211][281]Cmd: EDIT CUT
+[2025.10.23-10.52.19:213][281]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.52.19:222][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.23-10.52.19:223][281]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-10.52.46:583][991]Cmd: EDIT CUT
+[2025.10.23-10.52.46:585][991]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-10.52.46:594][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.10.23-10.52.46:595][991]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-10.53.04:328][721]Cmd: TRANSACTION UNDO
+[2025.10.23-10.53.04:328][721]LogEditorTransaction: Undo Move Elements
+[2025.10.23-10.53.07:182][926]Cmd: TRANSACTION UNDO
+[2025.10.23-10.53.07:182][926]LogEditorTransaction: Undo Move Elements
+[2025.10.23-10.53.30:694][258]Cmd: DUPLICATE
+[2025.10.23-10.53.30:694][258]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.54.49:372][634]Cmd: DUPLICATE
+[2025.10.23-10.54.49:372][634]Cmd: ACTOR DUPLICATE
+[2025.10.23-10.55.45:765][174]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 38CC465E45529E4963840444ED511E59319FD9DC), compiling. 
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.10.23-10.55.48:694][432]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Job execution time: average 2.62 s, max 2.62 s
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Job life time (pending + execution): average 2.66 s, max 2.66
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.66 s
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Average processing rate: 0.38 jobs/sec
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Effective parallelization: 0.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.10.23-10.55.48:702][432]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.56.07:101][366]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.23-10.56.07:118][366]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.23-10.56.07:127][367]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.23-10.56.08:292][505]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.10.23-10.56.08:305][505]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.23-10.56.09:693][652]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2025.10.23-10.56.09:748][652]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E8A75E5F473992650011CE7DFFDA452B29977E8A), compiling. 
+[2025.10.23-10.56.09:893][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-10.56.10:570][652]LogMaterial: Display: Missing cached shadermap for Preview:NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 33E1EE10F46031731A118D6FBBF4B119413478A7), compiling. 
+[2025.10.23-10.56.10:595][652]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.23-10.56.10:595][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.23-10.56.10:595][652]MaterialEditorStats: Shader Count: 0
+[2025.10.23-10.56.10:605][652]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.23-10.56.10:610][652]LogViewport: Scene viewport resized to 242x264, mode Windowed.
+[2025.10.23-10.56.11:874][688]MaterialEditorStats: Texture samplers: 2/16
+[2025.10.23-10.56.11:874][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.23-10.56.11:874][688]MaterialEditorStats: Shader Count: 4
+[2025.10.23-10.56.30:484][102]LogSlate: Window 'NewMaterial' being destroyed
+[2025.10.23-10.56.30:490][102]LogSlate: Window 'NewMaterial' being destroyed
+[2025.10.23-10.56.30:592][102]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.56.30:592][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.56.51:568][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-10.56.51:575][331]LogWorldPartition: Display: GetPartitionedActors took 74 us
+[2025.10.23-10.56.51:576][331]LogWorldPartition: Display: GenerateStreaming took 483 us
+[2025.10.23-10.56.51:576][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-10.56.51:576][331]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 8:56:51 PM)
+[2025.10.23-10.56.51:602][331]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.56.51:606][331]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-10.56.51:606][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004331s)
+[2025.10.23-10.56.51:606][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004416s)
+[2025.10.23-10.56.51:606][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-10.56.51:607][331]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-10.56.51:607][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-10.56.51:607][331]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-10.56.51:608][331]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-10.56.51:608][331]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2025.10.23-10.56.51:630][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.23-10.56.51:631][331]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-10.56.51:631][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-10.56.51:631][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-10.56.51:631][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-10.56.51:631][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-10.56.51:631][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-10.56.51:632][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-10.56.51:717][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-10.56.51:718][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-10.56.51:718][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-10.56.51:718][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-10.56.51:718][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.23-10.56.51:718][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.23-10.56.51:719][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.23-10.56.51:719][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.23-10.56.51:719][331]LogInit: FAudioDevice initialized.
+[2025.10.23-10.56.51:719][331]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.10.23-10.56.51:730][331]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-10.56.51:731][331]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-15.56.51
+[2025.10.23-10.56.51:732][331]LogWorld: Bringing up level for play took: 0.001677
+[2025.10.23-10.56.51:733][331]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.10.23-10.56.51:735][331]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-10.56.51:735][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-10.56.51:735][331]PIE: Server logged in
+[2025.10.23-10.56.51:736][331]PIE: Play in editor total start time 0.163 seconds.
+[2025.10.23-10.57.15:587][ 19]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-40.76 Y=2.17 Z=0.00 Location: X=2238.59 Y=1474.97 Z=98.21 Normal: X=0.24 Y=0.97 Z=0.00 PenetrationDepth:0.000 Actor:StaticMeshActor_40 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.23-10.57.20:076][467]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-37.33 Y=1.86 Z=0.00 Location: X=1731.90 Y=1330.04 Z=98.21 Normal: X=0.22 Y=-0.97 Z=0.00 PenetrationDepth:0.001 Actor:StaticMeshActor_40 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2025.10.23-10.58.08:774][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.58.08:774][131]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-10.58.08:774][131]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-10.58.08:775][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.58.08:795][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-10.58.08:797][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-10.58.08:806][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-10.58.08:806][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.23-10.58.08:808][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.23-10.58.08:813][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-10.58.08:815][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.23-10.58.08:852][132]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.10.23-10.58.32:154][573]Cmd: TRANSACTION UNDO
+[2025.10.23-10.58.32:154][573]LogEditorTransaction: Undo Scale Elements
+[2025.10.23-11.00.36:462][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.10.23-11.00.36:468][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.10.23-11.00.36:468][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.10.23-11.00.36:739][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.10.23-11.00.36:739][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2025.10.23-11.00.36:739][401]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0339B02_1185716190
+[2025.10.23-11.00.39:498][681]Cmd: EDIT CUT
+[2025.10.23-11.00.39:500][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.00.39:513][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.23-11.00.39:514][681]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.10.23-11.01.51:732][876]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.01.51:732][876]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.01.51:733][876]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1260709191
+[2025.10.23-11.01.51:734][876]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1260709191
+[2025.10.23-11.02.13:636][ 60]Cmd: EDIT CUT
+[2025.10.23-11.02.13:639][ 60]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-11.02.13:648][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.23-11.02.13:649][ 60]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-11.02.19:770][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.02.19:770][622]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.02.19:770][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+[2025.10.23-11.02.19:770][622]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+[2025.10.23-11.02.20:511][695]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.02.20:511][695]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.02.20:512][695]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1289488192
+[2025.10.23-11.02.20:512][695]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1289488192
+[2025.10.23-11.02.31:476][701]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-11.02.38:128][370]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-11.02.42:028][818]Cmd: EDIT CUT
+[2025.10.23-11.02.42:030][818]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-11.02.42:038][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.23-11.02.42:039][818]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-11.02.43:211][959]Cmd: TRANSACTION UNDO
+[2025.10.23-11.02.43:211][959]LogEditorTransaction: Undo Cut
+[2025.10.23-11.02.43:565][965]Cmd: TRANSACTION UNDO
+[2025.10.23-11.02.43:565][965]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.23-11.02.44:137][  1]Cmd: TRANSACTION UNDO
+[2025.10.23-11.02.44:137][  1]LogEditorTransaction: Undo Edit Rayleigh Scattering
+[2025.10.23-11.02.44:703][ 54]Cmd: TRANSACTION UNDO
+[2025.10.23-11.02.44:703][ 54]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.23-11.02.50:454][613]Cmd: EDIT CUT
+[2025.10.23-11.02.50:456][613]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-11.02.50:463][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.10.23-11.02.50:464][613]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-11.04.22:163][206]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.23-11.04.54:181][ 69]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2025.10.23-11.04.54:200][ 69]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Blueprints/Assets/SM_Arrows) ...
+[2025.10.23-11.04.55:763][210]LogMeshUtilities: Finished distance field build in 1.6s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 43% occupied, 1726 triangles, SM_Arrows
+[2025.10.23-11.05.06:357][262]Cmd: EDIT CUT
+[2025.10.23-11.05.06:359][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.05.06:367][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.23-11.05.06:370][262]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-11.05.16:554][328]Cmd: TRANSACTION UNDO
+[2025.10.23-11.05.16:554][328]LogEditorTransaction: Undo Cut
+[2025.10.23-11.05.17:011][335]Cmd: TRANSACTION UNDO
+[2025.10.23-11.05.17:011][335]LogEditorTransaction: Undo Edit Static Mesh
+[2025.10.23-11.06.49:638][835]Cmd: EDIT CUT
+[2025.10.23-11.06.49:640][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.06.49:647][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-11.06.49:648][835]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-11.06.59:113][824]Cmd: EDIT CUT
+[2025.10.23-11.06.59:116][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.06.59:124][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.23-11.06.59:125][824]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-11.07.00:888][ 15]Cmd: EDIT CUT
+[2025.10.23-11.07.00:890][ 15]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.07.00:897][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.10.23-11.07.00:898][ 15]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-11.07.01:656][ 96]Cmd: EDIT CUT
+[2025.10.23-11.07.01:658][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.07.01:667][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.23-11.07.01:669][ 96]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-11.09.10:236][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.09.10:244][662]LogWorldPartition: Display: GetPartitionedActors took 48 us
+[2025.10.23-11.09.10:245][662]LogWorldPartition: Display: GenerateStreaming took 311 us
+[2025.10.23-11.09.10:245][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.09.10:245][662]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:09:10 PM)
+[2025.10.23-11.09.10:271][662]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.09.10:275][662]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.09.10:275][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004136s)
+[2025.10.23-11.09.10:275][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004222s)
+[2025.10.23-11.09.10:276][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.09.10:276][662]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.09.10:276][662]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.09.10:276][662]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.09.10:277][662]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.09.10:277][662]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2025.10.23-11.09.10:284][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.23-11.09.10:285][662]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.23-11.09.10:285][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.09.10:285][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.09.10:286][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.09.10:286][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.09.10:286][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.09.10:286][662]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.09.10:286][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.09.10:286][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.09.10:286][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.09.10:286][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.09.10:286][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.09.10:288][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.09.10:371][662]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.09.10:372][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.09.10:372][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.09.10:372][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.09.10:373][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.23-11.09.10:373][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.23-11.09.10:374][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.23-11.09.10:374][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.23-11.09.10:374][662]LogInit: FAudioDevice initialized.
+[2025.10.23-11.09.10:374][662]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2025.10.23-11.09.10:385][662]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.09.10:387][662]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.09.10
+[2025.10.23-11.09.10:387][662]LogWorld: Bringing up level for play took: 0.001528
+[2025.10.23-11.09.10:389][662]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.10.23-11.09.10:390][662]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.09.10:390][662]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.09.10:390][662]PIE: Server logged in
+[2025.10.23-11.09.10:391][662]PIE: Play in editor total start time 0.149 seconds.
+[2025.10.23-11.10.07:061][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.10.07:061][152]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.10.07:061][152]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.10.07:061][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.10.07:075][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.10.07:077][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.10.07:085][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-11.10.07:085][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.23-11.10.07:087][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.23-11.10.07:090][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.10.07:092][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.23-11.10.07:128][153]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.23-11.10.37:169][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.10.23-11.10.37:172][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto2
+[2025.10.23-11.10.37:172][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YUZ9741T50O1SYRX90OB0S_Auto2268FCA9E4680FFF4033B8290B61660B9.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S_Auto2.uasset'
+[2025.10.23-11.10.37:173][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto2
+[2025.10.23-11.10.37:173][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0XWE3RNM2XQC0ST1KXG02O_Auto21A44CBE448EB7C7B37C1C6A67ECB642E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O_Auto2.uasset'
+[2025.10.23-11.10.37:175][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UD/KI1RU12GEB5ETY1WMEWEQH_Auto2
+[2025.10.23-11.10.37:175][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/KI1RU12GEB5ETY1WMEWEQH_Auto2B2EAAB1B446D191A0B0F489184D6F9BA.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UD/KI1RU12GEB5ETY1WMEWEQH_Auto2.uasset'
+[2025.10.23-11.10.37:177][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V_Auto2
+[2025.10.23-11.10.37:177][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BE7SHA9YHJ2CF7N7XELT2V_Auto26E61C7234DF7FDA40CE4CE914D050DEE.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V_Auto2.uasset'
+[2025.10.23-11.10.37:179][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2
+[2025.10.23-11.10.37:179][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/2XZ3RUK0LFB63FVNQE7P5R_Auto22DEB43294256AE9E3898B0907127BF32.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R_Auto2.uasset'
+[2025.10.23-11.10.37:182][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NL/OLMA44TSRFJL0TXWQ7M53I_Auto2
+[2025.10.23-11.10.37:182][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/OLMA44TSRFJL0TXWQ7M53I_Auto2CC0A4EEF4EE24B0D62386D95CA9D2DC6.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NL/OLMA44TSRFJL0TXWQ7M53I_Auto2.uasset'
+[2025.10.23-11.10.37:184][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2
+[2025.10.23-11.10.37:185][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2DF1711C64D7DD402ED6F85B8F1E76ECE.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto2.uasset'
+[2025.10.23-11.10.37:186][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y3/9KR4EQ55Y7KRL3CE4U7MW4_Auto2
+[2025.10.23-11.10.37:187][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9KR4EQ55Y7KRL3CE4U7MW4_Auto2974ADC5349F3317BADD1D3898240EEDF.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y3/9KR4EQ55Y7KRL3CE4U7MW4_Auto2.uasset'
+[2025.10.23-11.10.37:189][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H5/37YALMA4MX2HP1MPHVD4PL_Auto2
+[2025.10.23-11.10.37:189][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/37YALMA4MX2HP1MPHVD4PL_Auto29769092B4A805100DEF7A6859ACE3CF4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H5/37YALMA4MX2HP1MPHVD4PL_Auto2.uasset'
+[2025.10.23-11.10.37:191][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MU/XC97WAFC0IYM01TISMRTP8_Auto2
+[2025.10.23-11.10.37:191][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/XC97WAFC0IYM01TISMRTP8_Auto263DD98E248ED38B92C787A915A299B9E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MU/XC97WAFC0IYM01TISMRTP8_Auto2.uasset'
+[2025.10.23-11.10.37:194][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X6/LJQCOY7E2FI8AULM5RTM1L_Auto2
+[2025.10.23-11.10.37:194][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LJQCOY7E2FI8AULM5RTM1L_Auto2384A2F84437EF48CC000D4A431B3012D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X6/LJQCOY7E2FI8AULM5RTM1L_Auto2.uasset'
+[2025.10.23-11.10.37:197][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto2
+[2025.10.23-11.10.37:197][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/W1SXRCM1KAKBJOIZDLHZ47_Auto28A90D3C341AE5656B569E4A42C06A86E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47_Auto2.uasset'
+[2025.10.23-11.10.37:198][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JT/J00Q06N81MEGEY0ILT2CWZ_Auto2
+[2025.10.23-11.10.37:198][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/J00Q06N81MEGEY0ILT2CWZ_Auto265138F334581E13E49FDCB8A3AD91262.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JT/J00Q06N81MEGEY0ILT2CWZ_Auto2.uasset'
+[2025.10.23-11.10.37:201][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z_Auto2
+[2025.10.23-11.10.37:201][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/T7DI0S2KFZGGIXIDE7J54Z_Auto28B2710F54C953D4164EF27BED320B57D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z_Auto2.uasset'
+[2025.10.23-11.10.37:204][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8_Auto2
+[2025.10.23-11.10.37:204][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0J54W7M1CH8LF9WWLECMA8_Auto266BEAE4E4A66B9EE7471DAAB4508B8CD.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8_Auto2.uasset'
+[2025.10.23-11.10.37:206][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto2
+[2025.10.23-11.10.37:206][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/HL558UUAGCS9HVVOI0S7PX_Auto2857DB20243736793850489A3EC6E2963.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX_Auto2.uasset'
+[2025.10.23-11.10.37:208][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/15QINCYX6H6D3YRZVVQXAP_Auto2
+[2025.10.23-11.10.37:208][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/15QINCYX6H6D3YRZVVQXAP_Auto2A5D4FB174A31A2EA46EAB9BCE06B6C7D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/15QINCYX6H6D3YRZVVQXAP_Auto2.uasset'
+[2025.10.23-11.10.37:209][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1L/QXN6EIOP7H4CEDTKLEDKV2_Auto2
+[2025.10.23-11.10.37:209][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/QXN6EIOP7H4CEDTKLEDKV2_Auto25ADEF5624C69D0564C3C578F99564E77.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1L/QXN6EIOP7H4CEDTKLEDKV2_Auto2.uasset'
+[2025.10.23-11.10.37:212][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/Z3264JAAQVGGKCTAW6NUHE_Auto2
+[2025.10.23-11.10.37:212][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Z3264JAAQVGGKCTAW6NUHE_Auto234E318F84FF99652CBF24AB36EF21A18.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/Z3264JAAQVGGKCTAW6NUHE_Auto2.uasset'
+[2025.10.23-11.10.37:214][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NI/CMVR16LCDBBQJWE3TB9RM8_Auto2
+[2025.10.23-11.10.37:214][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/CMVR16LCDBBQJWE3TB9RM8_Auto23C035C3A4504A4EC25A203A36D9DA15E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NI/CMVR16LCDBBQJWE3TB9RM8_Auto2.uasset'
+[2025.10.23-11.10.37:216][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7M/JP7REHN113OL5H1RYEGHTU_Auto2
+[2025.10.23-11.10.37:216][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/JP7REHN113OL5H1RYEGHTU_Auto2D85377A54754CC063C999C9E61A0EA93.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7M/JP7REHN113OL5H1RYEGHTU_Auto2.uasset'
+[2025.10.23-11.10.37:218][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U_Auto2
+[2025.10.23-11.10.37:218][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5H4WPUTDHJTIB5SGD07E0U_Auto21EFE783644F42371B397398D5B664F48.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U_Auto2.uasset'
+[2025.10.23-11.10.37:220][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K_Auto2
+[2025.10.23-11.10.37:220][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Z0A5PDSOSFQ4UW8341KN4K_Auto2ED1198E2411B7BB7D5A28FBAD69115B4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K_Auto2.uasset'
+[2025.10.23-11.10.37:222][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3Q/XHJDMDMMAEXQ4G52HU2GPE_Auto2
+[2025.10.23-11.10.37:222][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/XHJDMDMMAEXQ4G52HU2GPE_Auto23A8C961944083A38936195BE9FDD717B.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3Q/XHJDMDMMAEXQ4G52HU2GPE_Auto2.uasset'
+[2025.10.23-11.10.37:226][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PO/WYGPY57Q4U5XX0KCJKFG0P_Auto2
+[2025.10.23-11.10.37:226][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/WYGPY57Q4U5XX0KCJKFG0P_Auto2BF9E17C34CCCDFE9D9E9F8AAA53FA539.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PO/WYGPY57Q4U5XX0KCJKFG0P_Auto2.uasset'
+[2025.10.23-11.10.37:227][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/BI/TMWK8RJ37IITC33WIOSVMH_Auto2
+[2025.10.23-11.10.37:227][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/TMWK8RJ37IITC33WIOSVMH_Auto2337DBC4B47574F63C096368F63A54C50.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/BI/TMWK8RJ37IITC33WIOSVMH_Auto2.uasset'
+[2025.10.23-11.10.37:229][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OO/6YDOXPOPZRPBN324DJ7PQT_Auto2
+[2025.10.23-11.10.37:229][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/6YDOXPOPZRPBN324DJ7PQT_Auto2D5F57DE44214986122E668AB37080961.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OO/6YDOXPOPZRPBN324DJ7PQT_Auto2.uasset'
+[2025.10.23-11.10.37:232][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F_Auto2
+[2025.10.23-11.10.37:232][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0EZPDRLSZTBYAMM3VSKN0F_Auto221780A4F49A247CC9CFBB783811553DF.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F_Auto2.uasset'
+[2025.10.23-11.10.37:234][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG_Auto2
+[2025.10.23-11.10.37:234][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BAFDFN7H8FJUUJYBXFA3FG_Auto2CE83B3554E53F0157F545BB2A3958B98.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG_Auto2.uasset'
+[2025.10.23-11.10.37:236][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4_Auto2
+[2025.10.23-11.10.37:236][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5QOA4C171WOZVPNTQCVGE4_Auto2CDA1490B480033210A0DA7B6287719D2.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4_Auto2.uasset'
+[2025.10.23-11.10.37:238][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51_Auto2
+[2025.10.23-11.10.37:238][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LFV64Y8FKWQOLPGAFHIX51_Auto2A17436E1469B1A98C14198AC1A81940F.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51_Auto2.uasset'
+[2025.10.23-11.10.37:241][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY_Auto2
+[2025.10.23-11.10.37:241][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9LQI2R7LJ87EQJ0XBLKPEY_Auto2EDCCB0E44BA477A64925CBA5AA03E530.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY_Auto2.uasset'
+[2025.10.23-11.10.37:243][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2V/1VFITKAYIL8TPOMCSZ2B84_Auto2
+[2025.10.23-11.10.37:244][143]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/1VFITKAYIL8TPOMCSZ2B84_Auto254082E3B4D833C22AB7343BED83FF6DC.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2V/1VFITKAYIL8TPOMCSZ2B84_Auto2.uasset'
+[2025.10.23-11.10.37:244][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.082
+[2025.10.23-11.10.37:244][143]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2025.10.23-11.10.55:545][ 41]Cmd: DUPLICATE
+[2025.10.23-11.10.55:545][ 41]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.10.59:654][526]Cmd: DUPLICATE
+[2025.10.23-11.10.59:654][526]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.11.17:130][409]Cmd: DUPLICATE
+[2025.10.23-11.11.17:130][409]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.13.17:688][851]Cmd: DUPLICATE
+[2025.10.23-11.13.17:688][851]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.13.34:904][585]Cmd: DUPLICATE
+[2025.10.23-11.13.34:904][585]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.13.57:279][908]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2025.10.23-11.13.57:287][908]LogWorldPartition: Display: GenerateStreaming took 347 us
+[2025.10.23-11.13.57:287][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.13.57:287][908]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:13:57 PM)
+[2025.10.23-11.13.57:310][908]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.13.57:314][908]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.13.57:314][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004502s)
+[2025.10.23-11.13.57:314][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004587s)
+[2025.10.23-11.13.57:315][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.13.57:315][908]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.13.57:315][908]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.13.57:315][908]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.13.57:316][908]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.13.57:317][908]LogPlayLevel: PIE: World Init took: (0.002126s)
+[2025.10.23-11.13.57:324][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.23-11.13.57:325][908]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.13.57:325][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.13.57:325][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.13.57:326][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.13.57:326][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.13.57:326][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.13.57:327][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.13.57:407][908]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.13.57:407][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.13.57:407][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.13.57:407][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.13.57:408][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.23-11.13.57:408][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.23-11.13.57:409][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.23-11.13.57:409][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.23-11.13.57:409][908]LogInit: FAudioDevice initialized.
+[2025.10.23-11.13.57:409][908]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.10.23-11.13.57:419][908]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.13.57:420][908]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.13.57
+[2025.10.23-11.13.57:420][908]LogWorld: Bringing up level for play took: 0.001481
+[2025.10.23-11.13.57:422][908]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.10.23-11.13.57:424][908]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.13.57:424][908]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.13.57:424][908]PIE: Server logged in
+[2025.10.23-11.13.57:425][908]PIE: Play in editor total start time 0.141 seconds.
+[2025.10.23-11.14.48:992][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.14.48:992][242]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.14.48:992][242]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.14.48:992][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.14.49:019][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.14.49:022][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.14.49:031][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-11.14.49:032][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.23-11.14.49:034][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.23-11.14.49:039][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.14.49:040][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.23-11.14.49:072][243]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.23-11.15.00:891][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.15.00:898][545]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2025.10.23-11.15.00:899][545]LogWorldPartition: Display: GenerateStreaming took 323 us
+[2025.10.23-11.15.00:899][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.15.00:899][545]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:15:00 PM)
+[2025.10.23-11.15.00:922][545]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.15.00:933][545]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.15.00:933][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011918s)
+[2025.10.23-11.15.00:933][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012177s)
+[2025.10.23-11.15.00:934][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.15.00:934][545]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.15.00:935][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.15.00:935][545]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.15.00:937][545]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.15.00:937][545]LogPlayLevel: PIE: World Init took: (0.003564s)
+[2025.10.23-11.15.00:947][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.23-11.15.00:948][545]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.23-11.15.00:948][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.15.00:948][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.15.00:948][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.15.00:949][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.15.00:949][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.15.00:949][545]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.15.00:949][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.15.00:949][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.15.00:949][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.15.00:949][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.15.00:949][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.15.00:951][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.15.01:043][545]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.15.01:044][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.15.01:044][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.15.01:044][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.15.01:045][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.23-11.15.01:045][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.23-11.15.01:047][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.23-11.15.01:047][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.23-11.15.01:047][545]LogInit: FAudioDevice initialized.
+[2025.10.23-11.15.01:047][545]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2025.10.23-11.15.01:061][545]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.15.01:063][545]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.15.01
+[2025.10.23-11.15.01:063][545]LogWorld: Bringing up level for play took: 0.002253
+[2025.10.23-11.15.01:066][545]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.23-11.15.01:068][545]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.15.01:068][545]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.15.01:068][545]PIE: Server logged in
+[2025.10.23-11.15.01:069][545]PIE: Play in editor total start time 0.172 seconds.
+[2025.10.23-11.15.01:862][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.15.01:862][615]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.15.01:862][615]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.15.01:864][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.15.01:892][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.15.01:898][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.15.01:914][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.15.01:914][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.23-11.15.01:916][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.10.23-11.15.01:924][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.23-11.15.01:944][616]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.23-11.15.43:140][414]Cmd: DUPLICATE
+[2025.10.23-11.15.43:140][414]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.18.02:277][415]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.10.23-11.18.02:277][415]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.10.23-11.18.40:619][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.23-11.18.40:619][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.23-11.18.40:620][548]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1195854376
+[2025.10.23-11.18.40:621][548]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1195854376
+[2025.10.23-11.19.01:686][284]Cmd: EDIT CUT
+[2025.10.23-11.19.01:688][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-11.19.01:757][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.23-11.19.01:759][284]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2025.10.23-11.19.34:227][180]Cmd: DUPLICATE
+[2025.10.23-11.19.34:227][180]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.19.34:579][210]Cmd: DUPLICATE
+[2025.10.23-11.19.34:579][210]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.19.35:050][252]Cmd: DUPLICATE
+[2025.10.23-11.19.35:050][252]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.19.39:989][702]LogDerivedDataCache: C:/Users/2501617/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 file(s) with total size 0 MiB.
+[2025.10.23-11.21.00:029][676]Cmd: DUPLICATE
+[2025.10.23-11.21.00:029][676]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.21.30:952][300]Cmd: DUPLICATE
+[2025.10.23-11.21.30:952][300]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.22.18:930][567]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.22.18:930][567]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.22.18:930][567]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_1
+[2025.10.23-11.22.18:930][567]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_1
+[2025.10.23-11.22.19:832][629]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.22.19:832][629]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.22.19:832][629]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1415067382
+[2025.10.23-11.22.19:832][629]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1415067382
+[2025.10.23-11.22.43:850][834]Cmd: EDIT CUT
+[2025.10.23-11.22.43:852][834]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-11.22.43:876][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.23-11.22.43:878][834]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.10.23-11.23.10:727][784]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.23.10:727][784]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.23.10:727][784]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_2
+[2025.10.23-11.23.10:727][784]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_2
+[2025.10.23-11.23.11:375][848]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.23.11:375][848]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-11.23.11:376][848]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1466610383
+[2025.10.23-11.23.11:376][848]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1466610383
+[2025.10.23-11.23.39:376][968]Cmd: EDIT CUT
+[2025.10.23-11.23.39:378][968]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2025.10.23-11.23.39:388][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.23-11.23.39:390][968]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.10.23-11.24.13:626][388]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-11.24.39:951][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-11.24.39:955][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto3
+[2025.10.23-11.24.39:955][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/R1GV431P5FDO08OFULRA01_Auto36C06C368436407D7F7B20D911C5E1543.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto3.uasset'
+[2025.10.23-11.24.39:957][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V_Auto3
+[2025.10.23-11.24.39:957][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BE7SHA9YHJ2CF7N7XELT2V_Auto3F990BA324FF1CEB551F63BB5954BD511.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V_Auto3.uasset'
+[2025.10.23-11.24.39:960][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z_Auto3
+[2025.10.23-11.24.39:960][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/T7DI0S2KFZGGIXIDE7J54Z_Auto35CEC1629446634B6AA897CB5A47E053A.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z_Auto3.uasset'
+[2025.10.23-11.24.39:963][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8_Auto3
+[2025.10.23-11.24.39:963][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0J54W7M1CH8LF9WWLECMA8_Auto3F60763A8418ACE3164556C976C82AB9F.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8_Auto3.uasset'
+[2025.10.23-11.24.39:965][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U_Auto3
+[2025.10.23-11.24.39:965][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5H4WPUTDHJTIB5SGD07E0U_Auto330E1CB534CDFF24F0E5FBDA7C3B62A7B.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U_Auto3.uasset'
+[2025.10.23-11.24.39:967][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K_Auto3
+[2025.10.23-11.24.39:967][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Z0A5PDSOSFQ4UW8341KN4K_Auto3F9287A584FF0462B3DA2B999AE8F15A2.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K_Auto3.uasset'
+[2025.10.23-11.24.39:968][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F_Auto3
+[2025.10.23-11.24.39:969][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0EZPDRLSZTBYAMM3VSKN0F_Auto37599D0364442A409E5B4F7B411787DC2.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F_Auto3.uasset'
+[2025.10.23-11.24.39:970][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG_Auto3
+[2025.10.23-11.24.39:970][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BAFDFN7H8FJUUJYBXFA3FG_Auto359F113A9468F35510ED2648575578D45.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG_Auto3.uasset'
+[2025.10.23-11.24.39:972][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY_Auto3
+[2025.10.23-11.24.39:972][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9LQI2R7LJ87EQJ0XBLKPEY_Auto3EB60918949217EB56733C3A33D60276F.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY_Auto3.uasset'
+[2025.10.23-11.24.39:974][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A7/VLERB9USPBLVTP8J63S060_Auto3
+[2025.10.23-11.24.39:974][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/VLERB9USPBLVTP8J63S060_Auto328AB02504742775777AE7CAE240CCC30.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A7/VLERB9USPBLVTP8J63S060_Auto3.uasset'
+[2025.10.23-11.24.39:976][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9D/89KIQ80735MGLEA7HQBKT5_Auto3
+[2025.10.23-11.24.39:976][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/89KIQ80735MGLEA7HQBKT5_Auto30CB106D343FBE568935E50ADA796697C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9D/89KIQ80735MGLEA7HQBKT5_Auto3.uasset'
+[2025.10.23-11.24.39:978][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MC/LM0N79FL35T0OHXQ8SADT2_Auto3
+[2025.10.23-11.24.39:978][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LM0N79FL35T0OHXQ8SADT2_Auto36C7B2266469CF3BF62B54BB399DBE16D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MC/LM0N79FL35T0OHXQ8SADT2_Auto3.uasset'
+[2025.10.23-11.24.39:980][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ_Auto3
+[2025.10.23-11.24.39:980][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/S8PDJBFSFPJHXDWL28LXUQ_Auto35DAC6A7F4CFEC3B5501C8C968211A7FA.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ_Auto3.uasset'
+[2025.10.23-11.24.39:982][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z7/CZ99WQV342TR67FSOGY7KD_Auto3
+[2025.10.23-11.24.39:982][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/CZ99WQV342TR67FSOGY7KD_Auto37EA281754B31F0D44793A8A3BDED0D1A.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z7/CZ99WQV342TR67FSOGY7KD_Auto3.uasset'
+[2025.10.23-11.24.39:984][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EC/Q9BOG10ZTBMWU4TN3C4URE_Auto3
+[2025.10.23-11.24.39:984][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Q9BOG10ZTBMWU4TN3C4URE_Auto3BEE012DE4BA0F946F8E6D5A9C5D678DD.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EC/Q9BOG10ZTBMWU4TN3C4URE_Auto3.uasset'
+[2025.10.23-11.24.39:986][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Q0/ANZ4BSMKYQDT8JVOKEE7SV_Auto3
+[2025.10.23-11.24.39:986][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/ANZ4BSMKYQDT8JVOKEE7SV_Auto31DAE05B1452804833C74D185EAF9B403.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Q0/ANZ4BSMKYQDT8JVOKEE7SV_Auto3.uasset'
+[2025.10.23-11.24.39:989][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/8O/HQ3PXSVMUPYLND8GET2BUW_Auto3
+[2025.10.23-11.24.39:989][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/HQ3PXSVMUPYLND8GET2BUW_Auto3FFC9A4D04546047DFA28478559EBE3CD.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/8O/HQ3PXSVMUPYLND8GET2BUW_Auto3.uasset'
+[2025.10.23-11.24.39:991][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/713G5AE6DHG7GGZY5CANOH_Auto3
+[2025.10.23-11.24.39:991][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/713G5AE6DHG7GGZY5CANOH_Auto3FEAFA0FF4F9EAC5040805C9DD17DACC7.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/713G5AE6DHG7GGZY5CANOH_Auto3.uasset'
+[2025.10.23-11.24.39:993][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2S/Q4DHFPJQRE4MS9NC0V8022_Auto3
+[2025.10.23-11.24.39:993][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Q4DHFPJQRE4MS9NC0V8022_Auto319FE10E5477C62E8E356B9920B8DC9FF.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2S/Q4DHFPJQRE4MS9NC0V8022_Auto3.uasset'
+[2025.10.23-11.24.39:995][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1W/MRSCY5A3K9JRMS8Z0KP3HR_Auto3
+[2025.10.23-11.24.39:995][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/MRSCY5A3K9JRMS8Z0KP3HR_Auto3A43CB6C4426AD49CFFE712ADA126420B.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1W/MRSCY5A3K9JRMS8Z0KP3HR_Auto3.uasset'
+[2025.10.23-11.24.39:996][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0B/ZDJ63Q89QKNBPFC842JC4C_Auto3
+[2025.10.23-11.24.39:996][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/ZDJ63Q89QKNBPFC842JC4C_Auto3AB169EE84426BF70A3FDEA900FA9A43C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0B/ZDJ63Q89QKNBPFC842JC4C_Auto3.uasset'
+[2025.10.23-11.24.39:998][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Y5/Y49D0FNAOHDU1UFTNG8E5L_Auto3
+[2025.10.23-11.24.39:998][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Y49D0FNAOHDU1UFTNG8E5L_Auto362B4751A42C3BAC56A1570A9E4BF9FE5.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Y5/Y49D0FNAOHDU1UFTNG8E5L_Auto3.uasset'
+[2025.10.23-11.24.40:000][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OQ/RR8YN1ADNQ7CHCS0MD31ML_Auto3
+[2025.10.23-11.24.40:000][842]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/RR8YN1ADNQ7CHCS0MD31ML_Auto3B0760A0141BAAA9C18ED8BA16EBF4BA6.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OQ/RR8YN1ADNQ7CHCS0MD31ML_Auto3.uasset'
+[2025.10.23-11.24.40:001][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.057
+[2025.10.23-11.24.40:001][842]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.10.23-11.25.48:507][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-11.25.48:507][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-11.25.48:507][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_0
+[2025.10.23-11.25.48:507][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_0
+[2025.10.23-11.25.49:973][989]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-11.25.49:973][989]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-11.25.49:974][989]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A0349B02_1625208384
+[2025.10.23-11.25.49:974][989]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A0349B02_1625208384
+[2025.10.23-11.32.44:928][ 61]Cmd: DUPLICATE
+[2025.10.23-11.32.44:928][ 61]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.32.58:614][213]Cmd: DUPLICATE
+[2025.10.23-11.32.58:614][213]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.33.03:314][632]Cmd: DUPLICATE
+[2025.10.23-11.33.03:314][632]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.33.33:403][ 58]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-11.33.40:744][617]Cmd: DUPLICATE
+[2025.10.23-11.33.40:744][617]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.34.27:046][499]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.23-11.34.28:899][645]Cmd: DUPLICATE
+[2025.10.23-11.34.28:899][645]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.34.29:380][684]Cmd: DUPLICATE
+[2025.10.23-11.34.29:380][684]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.34.55:030][790]Cmd: DUPLICATE
+[2025.10.23-11.34.55:030][790]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.35.07:775][874]Cmd: DUPLICATE
+[2025.10.23-11.35.07:775][874]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.35.18:343][758]Cmd: EDIT CUT
+[2025.10.23-11.35.18:347][758]LogEditorActor: Deleted Actor: PointLight
+[2025.10.23-11.35.18:359][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.23-11.35.18:362][758]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.10.23-11.35.22:451][121]Cmd: DUPLICATE
+[2025.10.23-11.35.22:451][121]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.35.34:279][173]Cmd: DUPLICATE
+[2025.10.23-11.35.34:279][173]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.35.44:834][ 34]Cmd: DUPLICATE
+[2025.10.23-11.35.44:834][ 34]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.35.47:600][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.35.47:606][254]LogWorldPartition: Display: GetPartitionedActors took 51 us
+[2025.10.23-11.35.47:607][254]LogWorldPartition: Display: GenerateStreaming took 451 us
+[2025.10.23-11.35.47:607][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.35.47:607][254]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:35:47 PM)
+[2025.10.23-11.35.47:607][254]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.35.47:613][254]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.35.47:613][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005592s)
+[2025.10.23-11.35.47:613][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005644s)
+[2025.10.23-11.35.47:613][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.35.47:614][254]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.35.47:614][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.35.47:614][254]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.35.47:615][254]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.35.47:616][254]LogPlayLevel: PIE: World Init took: (0.002510s)
+[2025.10.23-11.35.47:622][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.23-11.35.47:624][254]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.35.47:624][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.35.47:624][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.35.47:624][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.35.47:624][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.35.47:624][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.35.47:627][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.35.48:223][254]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.35.48:224][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.35.48:224][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.35.48:224][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.35.48:225][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.23-11.35.48:225][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.23-11.35.48:228][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.23-11.35.48:228][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.23-11.35.48:228][254]LogInit: FAudioDevice initialized.
+[2025.10.23-11.35.48:228][254]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2025.10.23-11.35.48:250][254]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.35.48:253][254]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.35.48
+[2025.10.23-11.35.48:254][254]LogWorld: Bringing up level for play took: 0.003479
+[2025.10.23-11.35.48:257][254]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.23-11.35.48:260][254]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.35.48:260][254]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.35.48:260][254]PIE: Server logged in
+[2025.10.23-11.35.48:261][254]PIE: Play in editor total start time 0.657 seconds.
+[2025.10.23-11.35.51:552][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.35.51:552][513]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.35.51:552][513]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.35.51:552][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.35.51:563][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.35.51:565][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.35.51:573][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-11.35.51:573][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.23-11.35.51:575][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.10.23-11.35.51:578][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.35.51:579][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.23-11.35.51:633][515]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.23-11.36.00:500][274]Cmd: EDIT CUT
+[2025.10.23-11.36.00:503][274]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.10.23-11.36.00:512][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.23-11.36.00:514][274]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.10.23-11.36.03:568][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.36.03:576][561]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2025.10.23-11.36.03:577][561]LogWorldPartition: Display: GenerateStreaming took 415 us
+[2025.10.23-11.36.03:577][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.36.03:577][561]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:36:03 PM)
+[2025.10.23-11.36.03:577][561]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.36.03:582][561]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.36.03:582][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005323s)
+[2025.10.23-11.36.03:582][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005377s)
+[2025.10.23-11.36.03:582][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.36.03:582][561]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.36.03:583][561]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.36.03:583][561]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.36.03:584][561]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.36.03:584][561]LogPlayLevel: PIE: World Init took: (0.002362s)
+[2025.10.23-11.36.03:592][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.23-11.36.03:592][561]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.36.03:592][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.36.03:592][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.36.03:593][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.36.03:593][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.36.03:593][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.36.03:595][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.36.03:677][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.36.03:677][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.36.03:678][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.36.03:678][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.36.03:678][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.23-11.36.03:678][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.23-11.36.03:680][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.23-11.36.03:680][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.23-11.36.03:680][561]LogInit: FAudioDevice initialized.
+[2025.10.23-11.36.03:680][561]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2025.10.23-11.36.03:692][561]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.36.03:695][561]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.36.03
+[2025.10.23-11.36.03:695][561]LogWorld: Bringing up level for play took: 0.002135
+[2025.10.23-11.36.03:697][561]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.10.23-11.36.03:699][561]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.36.03:699][561]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.36.03:699][561]PIE: Server logged in
+[2025.10.23-11.36.03:700][561]PIE: Play in editor total start time 0.127 seconds.
+[2025.10.23-11.36.43:183][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.36.43:183][970]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.36.43:183][970]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.36.43:184][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.36.43:205][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.36.43:207][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.36.43:215][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.36.43:216][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.23-11.36.43:217][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.10.23-11.36.43:221][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.23-11.36.43:293][973]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.10.23-11.37.15:702][867]Cmd: DUPLICATE
+[2025.10.23-11.37.15:702][867]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.37.33:320][446]Cmd: DUPLICATE
+[2025.10.23-11.37.33:320][446]Cmd: ACTOR DUPLICATE
+[2025.10.23-11.37.50:646][  6]Cmd: SELECT NONE
+[2025.10.23-11.38.02:716][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: GenerateStreaming started...
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: GetPartitionedActors took 50 us
+[2025.10.23-11.38.02:725][112]LogWorldPartition: Display: GenerateStreaming took 435 us
+[2025.10.23-11.38.02:725][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.23-11.38.02:725][112]PIE: New page: PIE session: FirstPersonMap (Oct 23, 2025, 9:38:02 PM)
+[2025.10.23-11.38.02:763][112]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.38.02:768][112]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2025.10.23-11.38.02:768][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005136s)
+[2025.10.23-11.38.02:768][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005221s)
+[2025.10.23-11.38.02:769][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.23-11.38.02:769][112]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.10.23-11.38.02:769][112]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.23-11.38.02:769][112]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2025.10.23-11.38.02:770][112]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2025.10.23-11.38.02:770][112]LogPlayLevel: PIE: World Init took: (0.002137s)
+[2025.10.23-11.38.02:777][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.23-11.38.02:779][112]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.23-11.38.02:779][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.10.23-11.38.02:779][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.23-11.38.02:780][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.23-11.38.02:780][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.23-11.38.02:780][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.23-11.38.02:782][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.23-11.38.02:864][112]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.10.23-11.38.02:865][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.23-11.38.02:865][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.23-11.38.02:865][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.23-11.38.02:865][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.23-11.38.02:865][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.23-11.38.02:867][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.23-11.38.02:867][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.23-11.38.02:867][112]LogInit: FAudioDevice initialized.
+[2025.10.23-11.38.02:867][112]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2025.10.23-11.38.02:879][112]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.23-11.38.02:882][112]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.10.23-16.38.02
+[2025.10.23-11.38.02:882][112]LogWorld: Bringing up level for play took: 0.001830
+[2025.10.23-11.38.02:883][112]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.23-11.38.02:885][112]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1740.000 Y=300.000 Z=98.337
+[2025.10.23-11.38.02:885][112]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2025.10.23-11.38.02:885][112]PIE: Server logged in
+[2025.10.23-11.38.02:886][112]PIE: Play in editor total start time 0.164 seconds.
+[2025.10.23-11.40.06:063][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.40.06:063][505]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.10.23-11.40.06:064][505]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.23-11.40.06:064][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.40.06:078][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.23-11.40.06:079][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.23-11.40.06:087][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.23-11.40.06:087][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.23-11.40.06:089][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.23-11.40.06:092][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.23-11.40.06:095][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.23-11.40.06:155][507]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.23-11.40.36:952][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.23-11.40.37:067][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1168806000 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2H/0GZ6EZIIBREFYTXOF9MPVZ.PackageMetaData in its package
+[2025.10.23-11.40.37:067][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_2086104821 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T0/THKCYVTNOSNACL7F0CCMK8.PackageMetaData in its package
+[2025.10.23-11.40.37:067][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_2070949820 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Y2/D592IPKLPPOHAIGKSUFKTZ.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_1990196817 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MZ/D46MBA44BE1IC59VCJPOSQ.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_2020450819 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IT/NLELHEZFNA4XE0NBMDW50A.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0359B02_1096523567 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NP/FLR4WVVAZVL78YLXB1P2HY.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1289488192 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ZC/Y5O1QTVNBZXQCCV2XN2OXM.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0339B02_1260709191 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/67/1DB85VJUF9WCC4A2HBIS36.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0339B02_1185716190 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PK/5M799U3W18SW7XE5CZJ96F.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1415067382 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IX/QGQ3734CCE6S0W5221XSBM.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A0349B02_1625208384 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0G/UWPSEN37LCAJ7P360WUR8S.PackageMetaData in its package
+[2025.10.23-11.40.37:068][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.23-11.40.37:077][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.23-11.40.37:082][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-11.40.37:087][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2025.10.23-11.40.37:087][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/R1GV431P5FDO08OFULRA01DE28876F43A22D7C939DB19EA5916F58.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2025.10.23-11.40.37:089][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S
+[2025.10.23-11.40.37:090][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YUZ9741T50O1SYRX90OB0S9DA81903437FDC1EB2908A9F8104F5C0.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
+[2025.10.23-11.40.37:092][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2025.10.23-11.40.37:093][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0XWE3RNM2XQC0ST1KXG02ODEF640E646AB7A779AF1F38805CEDA66.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2025.10.23-11.40.37:095][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UD/KI1RU12GEB5ETY1WMEWEQH
+[2025.10.23-11.40.37:096][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/KI1RU12GEB5ETY1WMEWEQH3ECD94AD4ECFFE18EB2F60AB39CD0CEF.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/UD/KI1RU12GEB5ETY1WMEWEQH.uasset'
+[2025.10.23-11.40.37:098][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V
+[2025.10.23-11.40.37:098][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BE7SHA9YHJ2CF7N7XELT2V77BBD820457C38BCEA35EC889997F1A1.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/1T/BE7SHA9YHJ2CF7N7XELT2V.uasset'
+[2025.10.23-11.40.37:101][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R
+[2025.10.23-11.40.37:103][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/2XZ3RUK0LFB63FVNQE7P5RE2693E274200396DF6F4728591CF46C6.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset'
+[2025.10.23-11.40.37:105][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NL/OLMA44TSRFJL0TXWQ7M53I
+[2025.10.23-11.40.37:106][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/OLMA44TSRFJL0TXWQ7M53IB1931E1E49DFF84D65E0BD8236E61E15.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/NL/OLMA44TSRFJL0TXWQ7M53I.uasset'
+[2025.10.23-11.40.37:108][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2025.10.23-11.40.37:109][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/1ZJ54FMA0DAL3I2Q8RFAIB3F1C31A54B5012DAF19CD58FA38D5DDE.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2025.10.23-11.40.37:111][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y3/9KR4EQ55Y7KRL3CE4U7MW4
+[2025.10.23-11.40.37:111][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9KR4EQ55Y7KRL3CE4U7MW448C2DFD844638B3A11AAB5BCBFC45F8D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y3/9KR4EQ55Y7KRL3CE4U7MW4.uasset'
+[2025.10.23-11.40.37:113][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H5/37YALMA4MX2HP1MPHVD4PL
+[2025.10.23-11.40.37:114][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/37YALMA4MX2HP1MPHVD4PLAE2BC1674DB8C044FE22399FDD8556E4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/H5/37YALMA4MX2HP1MPHVD4PL.uasset'
+[2025.10.23-11.40.37:116][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MU/XC97WAFC0IYM01TISMRTP8
+[2025.10.23-11.40.37:118][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/XC97WAFC0IYM01TISMRTP87A8AB56043521250F086659894BA34AD.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MU/XC97WAFC0IYM01TISMRTP8.uasset'
+[2025.10.23-11.40.37:119][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X6/LJQCOY7E2FI8AULM5RTM1L
+[2025.10.23-11.40.37:120][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LJQCOY7E2FI8AULM5RTM1L0277142643040B9F5C6F99B6BD146200.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/X6/LJQCOY7E2FI8AULM5RTM1L.uasset'
+[2025.10.23-11.40.37:122][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47
+[2025.10.23-11.40.37:124][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/W1SXRCM1KAKBJOIZDLHZ4731ABC8314796B54352814C9177BE2812.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset'
+[2025.10.23-11.40.37:126][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JT/J00Q06N81MEGEY0ILT2CWZ
+[2025.10.23-11.40.37:127][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/J00Q06N81MEGEY0ILT2CWZ5AF8CD344427E1F2087AAC85FC820794.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JT/J00Q06N81MEGEY0ILT2CWZ.uasset'
+[2025.10.23-11.40.37:129][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z
+[2025.10.23-11.40.37:130][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/T7DI0S2KFZGGIXIDE7J54Z63A996CB488F9421E0758BAFD942D23D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W4/T7DI0S2KFZGGIXIDE7J54Z.uasset'
+[2025.10.23-11.40.37:132][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8
+[2025.10.23-11.40.37:132][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0J54W7M1CH8LF9WWLECMA8D4BA510D46C54482BEF716A74890C196.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2T/0J54W7M1CH8LF9WWLECMA8.uasset'
+[2025.10.23-11.40.37:134][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+[2025.10.23-11.40.37:135][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/HL558UUAGCS9HVVOI0S7PXAA45C416454E059B44E85792C1DDD441.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset'
+[2025.10.23-11.40.37:138][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/15QINCYX6H6D3YRZVVQXAP
+[2025.10.23-11.40.37:138][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/15QINCYX6H6D3YRZVVQXAP66E28C674CEAFB19C7B3FA97D89141B4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/15QINCYX6H6D3YRZVVQXAP.uasset'
+[2025.10.23-11.40.37:141][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1L/QXN6EIOP7H4CEDTKLEDKV2
+[2025.10.23-11.40.37:141][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/QXN6EIOP7H4CEDTKLEDKV2396B762A42EA42F38480859141076D8A.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1L/QXN6EIOP7H4CEDTKLEDKV2.uasset'
+[2025.10.23-11.40.37:143][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/Z3264JAAQVGGKCTAW6NUHE
+[2025.10.23-11.40.37:143][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Z3264JAAQVGGKCTAW6NUHEB8F31601475531507DCACDA8C4E3A99C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/Z3264JAAQVGGKCTAW6NUHE.uasset'
+[2025.10.23-11.40.37:145][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NI/CMVR16LCDBBQJWE3TB9RM8
+[2025.10.23-11.40.37:145][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/CMVR16LCDBBQJWE3TB9RM8BE927B2843380B7BA991ECAFFDDAE2AD.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NI/CMVR16LCDBBQJWE3TB9RM8.uasset'
+[2025.10.23-11.40.37:147][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7M/JP7REHN113OL5H1RYEGHTU
+[2025.10.23-11.40.37:147][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/JP7REHN113OL5H1RYEGHTU3F7A4E1D4398E3B7BE6B12B8DE8A0718.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7M/JP7REHN113OL5H1RYEGHTU.uasset'
+[2025.10.23-11.40.37:149][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U
+[2025.10.23-11.40.37:149][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5H4WPUTDHJTIB5SGD07E0U90BD76A9491E0F757931F5B4B12DDA16.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PJ/5H4WPUTDHJTIB5SGD07E0U.uasset'
+[2025.10.23-11.40.37:151][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K
+[2025.10.23-11.40.37:151][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Z0A5PDSOSFQ4UW8341KN4KCC9E1B7E43D20036BFE28DA27E984106.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/Z0A5PDSOSFQ4UW8341KN4K.uasset'
+[2025.10.23-11.40.37:154][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3Q/XHJDMDMMAEXQ4G52HU2GPE
+[2025.10.23-11.40.37:154][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/XHJDMDMMAEXQ4G52HU2GPE6F908452472D53F4D85FA096C4898C11.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3Q/XHJDMDMMAEXQ4G52HU2GPE.uasset'
+[2025.10.23-11.40.37:156][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PO/WYGPY57Q4U5XX0KCJKFG0P
+[2025.10.23-11.40.37:156][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/WYGPY57Q4U5XX0KCJKFG0P0329E4064EBA97A07358FAAD0EB0D26C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/PO/WYGPY57Q4U5XX0KCJKFG0P.uasset'
+[2025.10.23-11.40.37:158][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/BI/TMWK8RJ37IITC33WIOSVMH
+[2025.10.23-11.40.37:158][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/TMWK8RJ37IITC33WIOSVMH4CAB90E74AD0DD46E79A3F9CCB14EBB5.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/BI/TMWK8RJ37IITC33WIOSVMH.uasset'
+[2025.10.23-11.40.37:160][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OO/6YDOXPOPZRPBN324DJ7PQT
+[2025.10.23-11.40.37:160][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/6YDOXPOPZRPBN324DJ7PQTED9947B94514353E6FBC628C28180C4C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/OO/6YDOXPOPZRPBN324DJ7PQT.uasset'
+[2025.10.23-11.40.37:162][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F
+[2025.10.23-11.40.37:162][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0EZPDRLSZTBYAMM3VSKN0FEDB170B64C0E9295199249919C21C190.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/NW/0EZPDRLSZTBYAMM3VSKN0F.uasset'
+[2025.10.23-11.40.37:164][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG
+[2025.10.23-11.40.37:164][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/BAFDFN7H8FJUUJYBXFA3FG6D0A9D1C418C67C9A7A713AA2CA2BCC3.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/W3/BAFDFN7H8FJUUJYBXFA3FG.uasset'
+[2025.10.23-11.40.37:167][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4
+[2025.10.23-11.40.37:167][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5QOA4C171WOZVPNTQCVGE49C9AC11D45076BC6E346A48E8BD6979C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4.uasset'
+[2025.10.23-11.40.37:169][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51
+[2025.10.23-11.40.37:169][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LFV64Y8FKWQOLPGAFHIX51595C87B24FD8B26D422C23944870C6E1.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51.uasset'
+[2025.10.23-11.40.37:171][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY
+[2025.10.23-11.40.37:172][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9LQI2R7LJ87EQJ0XBLKPEY2FCF73E843A11E30BBB115BC62AA8F6E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2O/9LQI2R7LJ87EQJ0XBLKPEY.uasset'
+[2025.10.23-11.40.37:173][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2V/1VFITKAYIL8TPOMCSZ2B84
+[2025.10.23-11.40.37:173][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/1VFITKAYIL8TPOMCSZ2B84F04355644BC1D7CB350396AAA280EF67.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2V/1VFITKAYIL8TPOMCSZ2B84.uasset'
+[2025.10.23-11.40.37:176][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A7/VLERB9USPBLVTP8J63S060
+[2025.10.23-11.40.37:176][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/VLERB9USPBLVTP8J63S0602EABD0674497B4B8E8F928AC52366CCF.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/A7/VLERB9USPBLVTP8J63S060.uasset'
+[2025.10.23-11.40.37:178][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9D/89KIQ80735MGLEA7HQBKT5
+[2025.10.23-11.40.37:178][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/89KIQ80735MGLEA7HQBKT5C72B98DE4F3FD9AB4F59F19CE552F5E1.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9D/89KIQ80735MGLEA7HQBKT5.uasset'
+[2025.10.23-11.40.37:180][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MC/LM0N79FL35T0OHXQ8SADT2
+[2025.10.23-11.40.37:180][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/LM0N79FL35T0OHXQ8SADT2F75B016443ED6EA0865361A18AF0AF3D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/MC/LM0N79FL35T0OHXQ8SADT2.uasset'
+[2025.10.23-11.40.37:182][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ
+[2025.10.23-11.40.37:183][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/S8PDJBFSFPJHXDWL28LXUQ993EBBDC4170195AA9ED17BF5E295F96.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ.uasset'
+[2025.10.23-11.40.37:184][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z7/CZ99WQV342TR67FSOGY7KD
+[2025.10.23-11.40.37:185][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/CZ99WQV342TR67FSOGY7KD201D89F741CA94AB35948C8DDE5827E4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z7/CZ99WQV342TR67FSOGY7KD.uasset'
+[2025.10.23-11.40.37:187][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EC/Q9BOG10ZTBMWU4TN3C4URE
+[2025.10.23-11.40.37:187][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Q9BOG10ZTBMWU4TN3C4URE1DD8B271498195A7816A9FA94754F2E6.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EC/Q9BOG10ZTBMWU4TN3C4URE.uasset'
+[2025.10.23-11.40.37:190][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Q0/ANZ4BSMKYQDT8JVOKEE7SV
+[2025.10.23-11.40.37:190][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/ANZ4BSMKYQDT8JVOKEE7SVB2397A254DB33139806D849DBA2B6310.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Q0/ANZ4BSMKYQDT8JVOKEE7SV.uasset'
+[2025.10.23-11.40.37:191][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/8O/HQ3PXSVMUPYLND8GET2BUW
+[2025.10.23-11.40.37:191][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/HQ3PXSVMUPYLND8GET2BUW1C9F7CA744BA2FE8C0F204B2EBEB0A4F.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/8O/HQ3PXSVMUPYLND8GET2BUW.uasset'
+[2025.10.23-11.40.37:193][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/713G5AE6DHG7GGZY5CANOH
+[2025.10.23-11.40.37:193][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/713G5AE6DHG7GGZY5CANOH5250CFC04509776B82C508AD6C968038.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/713G5AE6DHG7GGZY5CANOH.uasset'
+[2025.10.23-11.40.37:195][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2S/Q4DHFPJQRE4MS9NC0V8022
+[2025.10.23-11.40.37:196][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Q4DHFPJQRE4MS9NC0V8022AB1716374D9AB0271101B985DBA2FE79.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2S/Q4DHFPJQRE4MS9NC0V8022.uasset'
+[2025.10.23-11.40.37:198][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1W/MRSCY5A3K9JRMS8Z0KP3HR
+[2025.10.23-11.40.37:198][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/MRSCY5A3K9JRMS8Z0KP3HRDFECAF7945450BBC35745F98FF625DBE.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/1W/MRSCY5A3K9JRMS8Z0KP3HR.uasset'
+[2025.10.23-11.40.37:200][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0B/ZDJ63Q89QKNBPFC842JC4C
+[2025.10.23-11.40.37:200][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/ZDJ63Q89QKNBPFC842JC4C98491A2546D5F8C27DBD63973046A501.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0B/ZDJ63Q89QKNBPFC842JC4C.uasset'
+[2025.10.23-11.40.37:202][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Y5/Y49D0FNAOHDU1UFTNG8E5L
+[2025.10.23-11.40.37:203][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Y49D0FNAOHDU1UFTNG8E5L54BC0F6B4FEEB06E05A738872A72CB9E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Y5/Y49D0FNAOHDU1UFTNG8E5L.uasset'
+[2025.10.23-11.40.37:205][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OQ/RR8YN1ADNQ7CHCS0MD31ML
+[2025.10.23-11.40.37:205][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/RR8YN1ADNQ7CHCS0MD31ML87EF703B40FEC3293641EEBC0E997269.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OQ/RR8YN1ADNQ7CHCS0MD31ML.uasset'
+[2025.10.23-11.40.37:208][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CH/8JNP0TZ0FW4VS6R6NU0LYC
+[2025.10.23-11.40.37:208][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/8JNP0TZ0FW4VS6R6NU0LYC6B1D8E7E4F334BC0C51A09A6E00BA7C3.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CH/8JNP0TZ0FW4VS6R6NU0LYC.uasset'
+[2025.10.23-11.40.37:210][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TR/KYC8QK8LF3M03PHEBMI731
+[2025.10.23-11.40.37:210][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/KYC8QK8LF3M03PHEBMI7317029B9744D146438EEA74B9955DE1704.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TR/KYC8QK8LF3M03PHEBMI731.uasset'
+[2025.10.23-11.40.37:211][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/I4BQF1VWWG7K9OCKVFXJ0B
+[2025.10.23-11.40.37:211][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/I4BQF1VWWG7K9OCKVFXJ0B24F9468F4214BB881BC1BF98AC0EE766.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/D9/I4BQF1VWWG7K9OCKVFXJ0B.uasset'
+[2025.10.23-11.40.37:214][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DS/4BD4T8Z6QOHDX7RA1WER9S
+[2025.10.23-11.40.37:214][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/4BD4T8Z6QOHDX7RA1WER9S7FC1839342098B970EA2A98A95AC43BB.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DS/4BD4T8Z6QOHDX7RA1WER9S.uasset'
+[2025.10.23-11.40.37:217][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/70/QUIUZMW4KMXHV0ZP0HNL0P
+[2025.10.23-11.40.37:218][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/QUIUZMW4KMXHV0ZP0HNL0PA7E8C8EE49A3302CBF377DA1D86CBCB1.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/70/QUIUZMW4KMXHV0ZP0HNL0P.uasset'
+[2025.10.23-11.40.37:220][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/OG/0VH84DKZUWB2LCQK03DDYI
+[2025.10.23-11.40.37:220][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/0VH84DKZUWB2LCQK03DDYI3EA0359441F1AE3606EAA58775D14D95.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/OG/0VH84DKZUWB2LCQK03DDYI.uasset'
+[2025.10.23-11.40.37:222][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6O/9Y8Q4WWM8RIKF69H15Z9IO
+[2025.10.23-11.40.37:222][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/9Y8Q4WWM8RIKF69H15Z9IOAB992CE246488C481815DF8857069404.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6O/9Y8Q4WWM8RIKF69H15Z9IO.uasset'
+[2025.10.23-11.40.37:224][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EP/84FPGLDWNFGK6Y48I1HRVK
+[2025.10.23-11.40.37:224][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/84FPGLDWNFGK6Y48I1HRVK7F28DD924D0324337995E69553A843E5.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EP/84FPGLDWNFGK6Y48I1HRVK.uasset'
+[2025.10.23-11.40.37:226][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1W/X58UEKWR5OFSU7FLKUPBA4
+[2025.10.23-11.40.37:226][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/X58UEKWR5OFSU7FLKUPBA4B95207DE4ED733F0F095C390987153A7.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1W/X58UEKWR5OFSU7FLKUPBA4.uasset'
+[2025.10.23-11.40.37:229][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MN/XA835S9XYW7VRPJ6R4QBWU
+[2025.10.23-11.40.37:229][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/XA835S9XYW7VRPJ6R4QBWU7C30665C4B3B7A5F08BD798748DD9F6E.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MN/XA835S9XYW7VRPJ6R4QBWU.uasset'
+[2025.10.23-11.40.37:231][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HF/OQZI9UAZZFPN546PYXLEXH
+[2025.10.23-11.40.37:231][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/OQZI9UAZZFPN546PYXLEXH16EC68494AAAEC0AA41A1B9A4D48AC74.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/HF/OQZI9UAZZFPN546PYXLEXH.uasset'
+[2025.10.23-11.40.37:234][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/Q8EV7REUSFP5SNNFE0OJZL
+[2025.10.23-11.40.37:234][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Q8EV7REUSFP5SNNFE0OJZL36C8E9E74A556E6BE1B3C381EA5A70A4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/Q8EV7REUSFP5SNNFE0OJZL.uasset'
+[2025.10.23-11.40.37:253][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="C:/Users/2501617/Downloads/Game-Design/MyProject/Content/NewMaterial.uasset" SILENT=true
+[2025.10.23-11.40.37:254][134]LogSavePackage: Moving output files for package: /Game/NewMaterial
+[2025.10.23-11.40.37:254][134]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/NewMaterial2EC25B27413BF07D1B01F4802DBAFB17.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/NewMaterial.uasset'
+[2025.10.23-11.40.37:278][134]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0309B02_2123134627
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1097156998
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1279338002
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0309B02_1866725623
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_4
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1143275999
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_0
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_2007378818
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1219079001
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1833413012
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0359B02_1109268568
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2144615390
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1548955009
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1371877005
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0329B02_1344427004
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_1768580814
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0319B02_1652600811
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1299223003
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1515937810
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1259808807
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1214573806
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1433631809
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1202832805
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1355135808
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0319B02_1186685804
+[2025.10.23-11.40.37:278][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2144134389
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0329B02_1912091013
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1475160007
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1511111008
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0329B02_1452201006
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2095980388
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2058549387
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0329B02_1692150011
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0329B02_1674295010
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2053850386
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0349B02_2040163385
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0339B02_1963882197
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0339B02_1946666196
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0339B02_1826107195
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0339B02_1808632194
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0339B02_1804523193
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0339B02_2092118198
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating SpotLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SpotLight_UAID_004E01BD76A0349B02_1157512375
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0359B02_1146328571
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1366188381
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A0349B02_1466610383
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1335265380
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0359B02_1135773570
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1250286379
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1249815378
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A0359B02_1123944569
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1249462377
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0349B02_1195854376
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0359B02_1254813573
+[2025.10.23-11.40.37:279][134]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0359B02_1237196572
+[2025.10.23-11.40.37:286][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
