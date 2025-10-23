@@ -984,3 +984,191 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.10.23-09.41.32:440][  1]LogAssetRegistry: Asset discovery search completed in 8.3578 seconds
 [2025.10.23-09.41.32:445][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2025.10.23-09.43.23:081][564]LogDerivedDataCache: C:/Users/2501617/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 file(s) with total size 0 MiB.
+[2025.10.23-09.49.52:505][751]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.49.52:505][751]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.49.52:524][751]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1236450447
+[2025.10.23-09.49.52:524][751]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1236450447
+[2025.10.23-09.49.59:064][488]Cmd: EDIT CUT
+[2025.10.23-09.49.59:364][488]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.10.23-09.49.59:383][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.23-09.49.59:384][488]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2025.10.23-09.50.06:344][308]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.50.06:344][308]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.50.06:345][308]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1250288448
+[2025.10.23-09.50.06:345][308]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1250288448
+[2025.10.23-09.50.11:865][908]Cmd: EDIT CUT
+[2025.10.23-09.50.11:866][908]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-09.50.11:874][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.23-09.50.11:875][908]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-09.50.32:923][374]Cmd: EDIT CUT
+[2025.10.23-09.50.32:925][374]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.10.23-09.50.32:932][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.10.23-09.50.32:933][374]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-09.50.46:879][ 17]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.10.23-09.50.46:879][ 17]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2025.10.23-09.51.31:861][ 97]Cmd: EDIT CUT
+[2025.10.23-09.51.31:863][ 97]LogEditorActor: Deleted Actor: RectLight
+[2025.10.23-09.51.31:872][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.23-09.51.31:872][ 97]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-09.51.37:659][756]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.51.37:659][756]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.51.37:660][756]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1341603450
+[2025.10.23-09.51.37:660][756]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1341603450
+[2025.10.23-09.51.43:772][450]Cmd: EDIT CUT
+[2025.10.23-09.51.43:774][450]LogEditorActor: Deleted Actor: DirectionalLight
+[2025.10.23-09.51.43:781][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.23-09.51.43:781][450]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-09.51.52:680][503]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.51.52:680][503]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.51.52:681][503]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1356624451
+[2025.10.23-09.51.52:681][503]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1356624451
+[2025.10.23-09.52.10:522][577]Cmd: EDIT CUT
+[2025.10.23-09.52.10:524][577]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-09.52.10:532][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.23-09.52.10:533][577]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-09.52.19:311][605]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.10.23-09.52.19:311][605]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2025.10.23-09.52.55:994][787]EditorErrors: New page: Actor attachment
+[2025.10.23-09.53.05:911][952]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.23-09.53.05:911][952]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.23-09.53.50:579][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.23-09.53.50:615][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2_Auto1
+[2025.10.23-09.53.50:615][957]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/381LM03PFI8AF9NED1SEV2_Auto115118A2145811D2B2A6F86AD8DFB2A6B.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2_Auto1.uasset'
+[2025.10.23-09.53.50:618][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto1
+[2025.10.23-09.53.50:619][957]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/R1GV431P5FDO08OFULRA01_Auto179A159184AEE3ED2488A11984BD732DB.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto1.uasset'
+[2025.10.23-09.53.50:621][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DL/5V73KQVBFTCE0VQTZ93NBO_Auto1
+[2025.10.23-09.53.50:621][957]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5V73KQVBFTCE0VQTZ93NBO_Auto105BE93F5484D5210C098CC9BBC17023A.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DL/5V73KQVBFTCE0VQTZ93NBO_Auto1.uasset'
+[2025.10.23-09.53.50:623][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI_Auto1
+[2025.10.23-09.53.50:623][957]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YR650XJE6AARJSF0AR13MI_Auto15DF75AD04CDBFE17FBECC6B0E5AA685D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI_Auto1.uasset'
+[2025.10.23-09.53.50:628][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.054
+[2025.10.23-09.53.50:628][957]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2025.10.23-09.55.40:755][833]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1341603450 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/RG/9V5VWQI0KQB7EJ8B9IQDMW.PackageMetaData in its package
+[2025.10.23-09.55.40:755][833]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RectLight_UAID_004E01BD76A02F9B02_1290823449 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YR/QJUM26TLBQDZLB7WSNYWTS.PackageMetaData in its package
+[2025.10.23-09.55.40:755][833]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1356624451 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/T8/UJTYFT71ATI6LQ87N2KU22.PackageMetaData in its package
+[2025.10.23-09.55.40:755][833]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1250288448 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/UY/PI9T95I10PAXW5W3NEE8T9.PackageMetaData in its package
+[2025.10.23-09.55.40:755][833]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1236450447 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YJ/60U3J8LAD6VUUAA9DPRGAG.PackageMetaData in its package
+[2025.10.23-09.55.40:756][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.23-09.55.40:764][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.23-09.55.40:771][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.10.23-09.55.40:773][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2
+[2025.10.23-09.55.40:774][833]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/381LM03PFI8AF9NED1SEV263CC55F54C0F93A28E1F768E6680F3D6.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset'
+[2025.10.23-09.55.40:776][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2025.10.23-09.55.40:777][833]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/R1GV431P5FDO08OFULRA0128B65C5141A3537631F21C843F9C7DED.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2025.10.23-09.55.40:779][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DL/5V73KQVBFTCE0VQTZ93NBO
+[2025.10.23-09.55.40:779][833]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/5V73KQVBFTCE0VQTZ93NBO3C63FF00491522AA7AC104A11A16B6AA.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DL/5V73KQVBFTCE0VQTZ93NBO.uasset'
+[2025.10.23-09.55.40:781][833]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI
+[2025.10.23-09.55.40:781][833]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YR650XJE6AARJSF0AR13MI1FECB63442D28F96E22679940E0A2C9D.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI.uasset'
+[2025.10.23-09.55.40:794][833]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.23-09.55.40:794][833]LogContentValidation: Display: Validating SpotLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SpotLight_UAID_004E01BD76A02F9B02_1383255452
+[2025.10.23-09.55.40:794][833]LogContentValidation: Display: Validating ExponentialHeightFog /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0
+[2025.10.23-09.55.40:794][833]LogContentValidation: Display: Validating PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2025.10.23-09.55.40:794][833]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A02F9B02_1429855453
+[2025.10.23-09.55.40:801][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-09.55.52:133][169]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.55.52:133][169]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2025.10.23-09.55.52:134][169]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1596077454
+[2025.10.23-09.55.52:134][169]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1596077454
+[2025.10.23-09.57.45:737][511]Cmd: EDIT CUT
+[2025.10.23-09.57.45:738][511]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-09.57.45:746][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.23-09.57.45:747][511]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-09.58.06:518][884]Cmd: EDIT CUT
+[2025.10.23-09.58.06:520][884]LogEditorActor: Deleted Actor: SkyLight
+[2025.10.23-09.58.06:528][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.23-09.58.06:529][884]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-09.59.16:781][131]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.59.16:781][131]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.59.16:782][131]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_0
+[2025.10.23-09.59.16:782][131]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_0
+[2025.10.23-09.59.18:027][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.59.18:027][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.10.23-09.59.18:028][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1801971455
+[2025.10.23-09.59.18:028][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1801971455
+[2025.10.23-10.03.50:826][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.23-10.03.50:828][990]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI_Auto2
+[2025.10.23-10.03.50:828][990]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YR650XJE6AARJSF0AR13MI_Auto2A1A1DBC24F23068592473680C4B96D1C.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI_Auto2.uasset'
+[2025.10.23-10.03.50:830][990]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/R2/61PGC3ATUO0DORYU2AEUF7_Auto2
+[2025.10.23-10.03.50:830][990]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/61PGC3ATUO0DORYU2AEUF7_Auto298B44AAA4F4DD33F79698CB03F8ED4B4.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/R2/61PGC3ATUO0DORYU2AEUF7_Auto2.uasset'
+[2025.10.23-10.03.50:830][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2025.10.23-10.03.50:830][990]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2025.10.23-10.11.43:994][252]Cmd: EDIT CUT
+[2025.10.23-10.11.43:996][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.44:014][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.10.23-10.11.44:015][252]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.10.23-10.11.44:773][336]Cmd: EDIT CUT
+[2025.10.23-10.11.44:776][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.44:785][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-10.11.44:787][336]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.10.23-10.11.46:213][498]Cmd: EDIT CUT
+[2025.10.23-10.11.46:214][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.46:222][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-10.11.46:223][498]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-10.11.47:179][604]Cmd: EDIT CUT
+[2025.10.23-10.11.47:181][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.47:188][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.23-10.11.47:189][604]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.11.48:758][782]Cmd: EDIT CUT
+[2025.10.23-10.11.48:760][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.48:767][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-10.11.48:769][782]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-10.11.50:644][998]Cmd: EDIT CUT
+[2025.10.23-10.11.50:646][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.50:654][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.23-10.11.50:655][998]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.11.51:593][103]Cmd: EDIT CUT
+[2025.10.23-10.11.51:594][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.51:602][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-10.11.51:604][103]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.11.58:358][850]Cmd: EDIT CUT
+[2025.10.23-10.11.58:360][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.58:366][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.10.23-10.11.58:367][850]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.11.59:497][978]Cmd: EDIT CUT
+[2025.10.23-10.11.59:499][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.11.59:507][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-10.11.59:508][978]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.10.23-10.12.00:571][ 98]Cmd: EDIT CUT
+[2025.10.23-10.12.00:573][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.12.00:581][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.23-10.12.00:583][ 98]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.13.12:235][966]Cmd: EDIT CUT
+[2025.10.23-10.13.12:237][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.13.12:244][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.10.23-10.13.12:245][966]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.13.13:706][132]Cmd: EDIT CUT
+[2025.10.23-10.13.13:707][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.13.13:714][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.23-10.13.13:716][132]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.13.14:815][255]Cmd: EDIT CUT
+[2025.10.23-10.13.14:816][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.13.14:824][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.23-10.13.14:825][255]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2025.10.23-10.13.15:944][381]Cmd: EDIT CUT
+[2025.10.23-10.13.15:946][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.13.15:952][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.10.23-10.13.15:953][381]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.13.17:544][563]Cmd: EDIT CUT
+[2025.10.23-10.13.17:546][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.23-10.13.17:552][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-10.13.17:553][563]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.23-10.13.43:445][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.23-10.13.43:445][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.23-10.13.43:446][557]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0309B02_1593647632
+[2025.10.23-10.13.43:467][557]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0309B02_1593647632
+[2025.10.23-10.13.54:321][727]LogWorldPartition: Warning: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_UAID_004E01BD76A02F9B02_1596077454 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2B/DK6N9AVUIB15BXE650KXPM.PackageMetaData in its package
+[2025.10.23-10.13.54:322][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.23-10.13.54:330][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.23-10.13.54:336][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.23-10.13.54:339][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI
+[2025.10.23-10.13.54:340][727]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/YR650XJE6AARJSF0AR13MI4EBC897C4DB052BD72DD009BAF1E8012.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KE/YR650XJE6AARJSF0AR13MI.uasset'
+[2025.10.23-10.13.54:342][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/R2/61PGC3ATUO0DORYU2AEUF7
+[2025.10.23-10.13.54:342][727]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/61PGC3ATUO0DORYU2AEUF72AEAAC9B42FFC180746CA9AB3F0FD45A.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/R2/61PGC3ATUO0DORYU2AEUF7.uasset'
+[2025.10.23-10.13.54:344][727]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SL/QQWK12EPP8D1JUTRVENJ6S
+[2025.10.23-10.13.54:344][727]LogSavePackage: Moving 'C:/Users/2501617/Downloads/Game-Design/MyProject/Saved/QQWK12EPP8D1JUTRVENJ6SE7186F5947812C59B3D79FA5A3754445.tmp' to 'C:/Users/2501617/Downloads/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/SL/QQWK12EPP8D1JUTRVENJ6S.uasset'
+[2025.10.23-10.13.54:357][727]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.23-10.13.54:357][727]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_004E01BD76A0309B02_1593647632
+[2025.10.23-10.13.54:357][727]LogContentValidation: Display: Validating DirectionalLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_UAID_004E01BD76A02F9B02_1801971455
+[2025.10.23-10.13.54:357][727]LogContentValidation: Display: Validating PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_004E01BD76A02F9B02_1429855453
+[2025.10.23-10.13.54:363][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.23-10.13.58:032][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.10.23-10.15.12:871][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
