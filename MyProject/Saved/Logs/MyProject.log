@@ -12957,3 +12957,608 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2025.11.12-12.08.47:629][131]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
 [2025.11.12-12.08.47:636][131]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.897824 seconds
 [2025.11.12-12.08.55:699][162]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3733.515625
+[2025.11.12-12.08.56:695][165]LogEOSSDK: Warning: LogHttp: 000004210CB14800: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.08.56:695][165]LogEOSSDK: Warning: LogHttp: 000004210CB14800: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.08.56:695][165]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.08.56:695][165]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.08.56:695][165]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.08.56:695][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.08.56:696][166]LogEOSSDK: Warning: LogHttp: 000004210CB14800: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.08.56:696][166]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.08.56:696][166]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.08.57:028][166]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 12.239632 seconds
+[2025.11.12-12.08.57:697][169]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.11.12-12.09.09:030][202]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3746.845947
+[2025.11.12-12.09.10:033][205]LogEOSSDK: Warning: LogHttp: 000004210CB14200: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.10:033][205]LogEOSSDK: Warning: LogHttp: 000004210CB14200: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.10:033][205]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.10:033][205]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: 000004210CB14200: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.10:033][206]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.10:034][206]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.10:367][206]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 2.643940 seconds
+[2025.11.12-12.09.12:712][213]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3750.527588
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.13:698][216]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.13:698][217]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.14:030][217]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 6.779870 seconds
+[2025.11.12-12.09.20:699][237]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3758.514648
+[2025.11.12-12.09.21:699][240]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.21:699][240]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.21:699][240]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.21:699][240]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: 000004210CB14E00: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.21:699][241]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.22:033][241]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 8.346446 seconds
+[2025.11.12-12.09.30:050][970]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3767.864990
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.30:542][ 29]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: 000004210CB15A00: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.30:542][ 30]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.30:550][ 30]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 3.906674 seconds
+[2025.11.12-12.09.34:454][498]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3772.269287
+[2025.11.12-12.09.34:973][560]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.34:973][560]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.34:973][560]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.34:973][560]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 1 (  Trying 54.175.176.175:443...)
+[2025.11.12-12.09.34:973][560]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 2 (Connected to api.epicgames.dev (54.175.176.175) port 443)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: 000004210CB12A00: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.34:973][561]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.34:980][561]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 7.148778 seconds
+[2025.11.12-12.09.41:504][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.11.12-12.09.44:308][335]LogSlate: Window 'Save Content' being destroyed
+[2025.11.12-12.09.44:328][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-12.09.44:459][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.12-12.09.44:472][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-12.09.44:482][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.12-12.09.44:493][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/gothic_coffee_table_1k/gothic_coffee_table] ([1] browsable assets)...
+[2025.11.12-12.09.44:494][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/gothic_coffee_table_1k/gothic_coffee_table]
+[2025.11.12-12.09.44:497][335]LogSavePackage: Moving output files for package: /Game/gothic_coffee_table_1k/gothic_coffee_table
+[2025.11.12-12.09.44:497][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/gothic_coffee_tableF71E83444C3F634BC7B4B7AF34A3ACD1.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/gothic_coffee_table_1k/gothic_coffee_table.uasset'
+[2025.11.12-12.09.44:498][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/gothic_coffee_table_1k/gothic_coffee_table_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:498][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/gothic_coffee_table_1k/gothic_coffee_table_1k]
+[2025.11.12-12.09.44:510][335]LogSavePackage: Moving output files for package: /Game/gothic_coffee_table_1k/gothic_coffee_table_1k
+[2025.11.12-12.09.44:510][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/gothic_coffee_table_1kE8968AB34BF942020B09D68886F7F966.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/gothic_coffee_table_1k/gothic_coffee_table_1k.uasset'
+[2025.11.12-12.09.44:512][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZU/YX4KOH6NRKVSN7IZBG6RB5
+[2025.11.12-12.09.44:512][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/YX4KOH6NRKVSN7IZBG6RB5A123DD8F44269A1F708AA3810C90823E.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZU/YX4KOH6NRKVSN7IZBG6RB5.uasset'
+[2025.11.12-12.09.44:514][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NM/Q491Q3510HOQSPSCCUVDON
+[2025.11.12-12.09.44:514][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/Q491Q3510HOQSPSCCUVDONA90B7D694B3700347B1C2DB3A20E4E59.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NM/Q491Q3510HOQSPSCCUVDON.uasset'
+[2025.11.12-12.09.44:516][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/H7/9EOE111L54QY9CL87BCKCM
+[2025.11.12-12.09.44:516][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/9EOE111L54QY9CL87BCKCM9F1F6B2141EBC61AFB6E7CAFEEE49A89.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/H7/9EOE111L54QY9CL87BCKCM.uasset'
+[2025.11.12-12.09.44:518][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01] ([1] browsable assets)...
+[2025.11.12-12.09.44:518][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01]
+[2025.11.12-12.09.44:518][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_1k/GothicBed_01" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01.uasset" SILENT=true
+[2025.11.12-12.09.44:520][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01
+[2025.11.12-12.09.44:521][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_018D4720024044FDA85821A3B86CA04CDC.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01.uasset'
+[2025.11.12-12.09.44:522][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:522][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01_1k]
+[2025.11.12-12.09.44:522][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_1k/GothicBed_01_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:535][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01_1k
+[2025.11.12-12.09.44:535][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_1k471B58F4425FAA58722EA6AE0E52389B.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_1k.uasset'
+[2025.11.12-12.09.44:537][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Y/9PPCEI3G0Q8RMD1UH9CF45
+[2025.11.12-12.09.44:538][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/9PPCEI3G0Q8RMD1UH9CF45DE8A97BE40F69EFB727962A3014ADA7F.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Y/9PPCEI3G0Q8RMD1UH9CF45.uasset'
+[2025.11.12-12.09.44:539][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z5/GL1D1AWUPHO8CQQ3V2TJO7
+[2025.11.12-12.09.44:539][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GL1D1AWUPHO8CQQ3V2TJO7A3FE71594AE224E1289334968BA66030.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z5/GL1D1AWUPHO8CQQ3V2TJO7.uasset'
+[2025.11.12-12.09.44:541][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:541][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_diff_1k]
+[2025.11.12-12.09.44:541][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_diff_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_diff_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:542][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_diff_1k
+[2025.11.12-12.09.44:542][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_diff_1k4356747348B5B13F2D7FADBF8921F988.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_diff_1k.uasset'
+[2025.11.12-12.09.44:543][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:543][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01_diff_1k]
+[2025.11.12-12.09.44:589][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01_diff_1k
+[2025.11.12-12.09.44:589][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_diff_1k782A9D9B42F889839124EB87A1A39BE0.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_diff_1k.uasset'
+[2025.11.12-12.09.44:591][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_diff_1k_Mat] ([1] browsable assets)...
+[2025.11.12-12.09.44:591][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_diff_1k_Mat]
+[2025.11.12-12.09.44:591][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_diff_1k_Mat" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_diff_1k_Mat.uasset" SILENT=true
+[2025.11.12-12.09.44:592][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_diff_1k_Mat
+[2025.11.12-12.09.44:592][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_diff_1k_MatDC2E237E45AB86CDBE0A949ED6DC67F2.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_diff_1k_Mat.uasset'
+[2025.11.12-12.09.44:594][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_metallic_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:594][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_metallic_1k]
+[2025.11.12-12.09.44:594][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_metallic_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_metallic_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:596][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_metallic_1k
+[2025.11.12-12.09.44:596][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_metallic_1k37986EE84615541E735AF68E74961532.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_metallic_1k.uasset'
+[2025.11.12-12.09.44:598][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01_metallic_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:598][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01_metallic_1k]
+[2025.11.12-12.09.44:601][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01_metallic_1k
+[2025.11.12-12.09.44:601][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_metallic_1k284149D3480729DAA90242A058E0AE0C.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_metallic_1k.uasset'
+[2025.11.12-12.09.44:602][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:602][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_nor_gl_1k]
+[2025.11.12-12.09.44:602][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_nor_gl_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_nor_gl_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:632][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_nor_gl_1k
+[2025.11.12-12.09.44:632][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_nor_gl_1k3F63075A49172E1B700915ABC58417EA.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_nor_gl_1k.uasset'
+[2025.11.12-12.09.44:632][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:632][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01_nor_gl_1k]
+[2025.11.12-12.09.44:659][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01_nor_gl_1k
+[2025.11.12-12.09.44:660][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_nor_gl_1k7546772146C8B01D97F892A768348D77.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_nor_gl_1k.uasset'
+[2025.11.12-12.09.44:661][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_1k/GothicBed_01_roughness_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:661][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_1k/GothicBed_01_roughness_1k]
+[2025.11.12-12.09.44:667][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_1k/GothicBed_01_roughness_1k
+[2025.11.12-12.09.44:667][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_roughness_1kB2DDCBDD430A9AFAF6946ABCED3E17CF.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_1k/GothicBed_01_roughness_1k.uasset'
+[2025.11.12-12.09.44:668][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GothicBed_01_roughness_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:668][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/GothicBed_01_roughness_1k]
+[2025.11.12-12.09.44:668][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GothicBed_01_roughness_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_roughness_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:669][335]LogSavePackage: Moving output files for package: /Game/GothicBed_01_roughness_1k
+[2025.11.12-12.09.44:669][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/GothicBed_01_roughness_1k1B92C5B9495B9CB40939AAA53F81B516.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/GothicBed_01_roughness_1k.uasset'
+[2025.11.12-12.09.44:670][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet] ([1] browsable assets)...
+[2025.11.12-12.09.44:671][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet]
+[2025.11.12-12.09.44:674][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet
+[2025.11.12-12.09.44:674][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet40CADE6B425C530C273BA791A77A1FC2.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet.uasset'
+[2025.11.12-12.09.44:675][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:675][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k]
+[2025.11.12-12.09.44:708][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k
+[2025.11.12-12.09.44:708][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_1kF433A4E0494BF13669AAC0B30292E0C3.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k.uasset'
+[2025.11.12-12.09.44:709][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6E/OY8NZ7ZNUF4Z83C725F3OI
+[2025.11.12-12.09.44:710][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/OY8NZ7ZNUF4Z83C725F3OI85F48C344794D3FD2E63099017B2F220.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6E/OY8NZ7ZNUF4Z83C725F3OI.uasset'
+[2025.11.12-12.09.44:712][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QE/1FSCB8EUL49C8F6V8G2O7Y
+[2025.11.12-12.09.44:712][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/1FSCB8EUL49C8F6V8G2O7Y699791D6444E62440ECADCB81AABACAC.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QE/1FSCB8EUL49C8F6V8G2O7Y.uasset'
+[2025.11.12-12.09.44:713][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Anim] ([1] browsable assets)...
+[2025.11.12-12.09.44:713][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Anim]
+[2025.11.12-12.09.44:715][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Anim
+[2025.11.12-12.09.44:715][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_1k_Anim1F7D962D49AA47419B7B499546106EE8.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Anim.uasset'
+[2025.11.12-12.09.44:718][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Q4/73I8I8LUB839UKKDP383JE
+[2025.11.12-12.09.44:718][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/73I8I8LUB839UKKDP383JE85BDBFFE4BA500CCF74319B2A291E3F0.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Q4/73I8I8LUB839UKKDP383JE.uasset'
+[2025.11.12-12.09.44:719][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_PhysicsAsset] ([1] browsable assets)...
+[2025.11.12-12.09.44:719][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_PhysicsAsset]
+[2025.11.12-12.09.44:721][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_PhysicsAsset
+[2025.11.12-12.09.44:722][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_1k_Physics434D94924B17ADABE535FFB4E813787C.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_PhysicsAsset.uasset'
+[2025.11.12-12.09.44:723][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Skeleton] ([1] browsable assets)...
+[2025.11.12-12.09.44:723][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Skeleton]
+[2025.11.12-12.09.44:724][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Skeleton
+[2025.11.12-12.09.44:724][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_1k_Skeleto951D18854F316EB47D9B95A3F3F26D54.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Skeleton.uasset'
+[2025.11.12-12.09.44:725][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:725][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_diff_1k]
+[2025.11.12-12.09.44:745][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_diff_1k
+[2025.11.12-12.09.44:745][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_diff_1k54521EF549283E3F2593DFBEB7C87F17.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_diff_1k.uasset'
+[2025.11.12-12.09.44:746][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:746][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_nor_gl_1k]
+[2025.11.12-12.09.44:773][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_nor_gl_1k
+[2025.11.12-12.09.44:773][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_nor_gl_1k063EA643406C6DCBFB1378A5ED53E62B.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_nor_gl_1k.uasset'
+[2025.11.12-12.09.44:774][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_rough_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:774][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_rough_1k]
+[2025.11.12-12.09.44:783][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_rough_1k
+[2025.11.12-12.09.44:783][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/modern_wooden_cabinet_rough_1k2127C86C496D92A193FC15B85C400322.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/modern_wooden_cabinet_rough_1k.uasset'
+[2025.11.12-12.09.44:785][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ
+[2025.11.12-12.09.44:786][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/S8PDJBFSFPJHXDWL28LXUQ62B333484BA63C7E9DCFDB94BC2343E7.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AZ/S8PDJBFSFPJHXDWL28LXUQ.uasset'
+[2025.11.12-12.09.44:792][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QK/W6S6BM1V4TKBV5HX7HS833
+[2025.11.12-12.09.44:792][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/W6S6BM1V4TKBV5HX7HS833242CBA9740108EB1843779B92C7CE337.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QK/W6S6BM1V4TKBV5HX7HS833.uasset'
+[2025.11.12-12.09.44:794][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/42/8XL20S04PPRK479XDZ5GX8
+[2025.11.12-12.09.44:794][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/8XL20S04PPRK479XDZ5GX8D52092604B81D6AF807F58A1E9D187E1.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/42/8XL20S04PPRK479XDZ5GX8.uasset'
+[2025.11.12-12.09.44:797][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4
+[2025.11.12-12.09.44:798][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/5QOA4C171WOZVPNTQCVGE4C0E137DD43BB668D5640B09F2696D8CF.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0A/5QOA4C171WOZVPNTQCVGE4.uasset'
+[2025.11.12-12.09.44:800][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51
+[2025.11.12-12.09.44:801][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/LFV64Y8FKWQOLPGAFHIX51CB9646E841B2C62A35854C87CD56AB9C.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HD/LFV64Y8FKWQOLPGAFHIX51.uasset'
+[2025.11.12-12.09.44:802][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02] ([1] browsable assets)...
+[2025.11.12-12.09.44:802][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02]
+[2025.11.12-12.09.44:802][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02.uasset" SILENT=true
+[2025.11.12-12.09.44:805][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02
+[2025.11.12-12.09.44:805][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_0244B0A89840E70C4DD7CF948EB88AC6ED.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02.uasset'
+[2025.11.12-12.09.44:806][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02] ([1] browsable assets)...
+[2025.11.12-12.09.44:806][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02]
+[2025.11.12-12.09.44:810][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02
+[2025.11.12-12.09.44:810][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02603AECC8456DAE17AF312CBEA37EE05A.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02.uasset'
+[2025.11.12-12.09.44:811][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Base] ([1] browsable assets)...
+[2025.11.12-12.09.44:811][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Base]
+[2025.11.12-12.09.44:815][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Base
+[2025.11.12-12.09.44:815][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_Base4CFCE589449F02C67BC896958CAC3189.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Base.uasset'
+[2025.11.12-12.09.44:816][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_Base] ([1] browsable assets)...
+[2025.11.12-12.09.44:817][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_Base]
+[2025.11.12-12.09.44:817][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_Base" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_Base.uasset" SILENT=true
+[2025.11.12-12.09.44:821][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_Base
+[2025.11.12-12.09.44:821][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_BaseEF5ECA904662842D8DE3858FB42D16F8.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_Base.uasset'
+[2025.11.12-12.09.44:823][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5L/ZDNRQ27RXJGMHR7QI2EEEX
+[2025.11.12-12.09.44:823][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/ZDNRQ27RXJGMHR7QI2EEEXA9E24744409043AA8ED2239DBBAC6F4D.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5L/ZDNRQ27RXJGMHR7QI2EEEX.uasset'
+[2025.11.12-12.09.44:826][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/CH/1ZQ77NYMO9IE0A4XWCV6S1
+[2025.11.12-12.09.44:826][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/1ZQ77NYMO9IE0A4XWCV6S1DB7401884C3416E8AB3CA0A773A6B0CB.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/CH/1ZQ77NYMO9IE0A4XWCV6S1.uasset'
+[2025.11.12-12.09.44:827][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:827][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_diff_1k]
+[2025.11.12-12.09.44:827][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_diff_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_diff_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:841][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_diff_1k
+[2025.11.12-12.09.44:841][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_diff_1k9E149AA940F60190FB008D9AFFB603D4.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_diff_1k.uasset'
+[2025.11.12-12.09.44:843][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:843][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_diff_1k]
+[2025.11.12-12.09.44:857][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_diff_1k
+[2025.11.12-12.09.44:857][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_diff_1kDA6587BF4677DA04A36C099ED290B0F5.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_diff_1k.uasset'
+[2025.11.12-12.09.44:858][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_metallic_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:858][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_metallic_1k]
+[2025.11.12-12.09.44:861][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_metallic_1k
+[2025.11.12-12.09.44:861][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_metallic_1kB276F12F4E20DA7F30C62399E13328BB.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_metallic_1k.uasset'
+[2025.11.12-12.09.44:862][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_metallic_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:862][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_metallic_1k]
+[2025.11.12-12.09.44:862][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_metallic_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_metallic_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:864][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_metallic_1k
+[2025.11.12-12.09.44:864][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_metallic_1k04D5859E441CD5880F7D80AB89F08C90.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_metallic_1k.uasset'
+[2025.11.12-12.09.44:866][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:866][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_nor_gl_1k]
+[2025.11.12-12.09.44:892][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_nor_gl_1k
+[2025.11.12-12.09.44:892][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_nor_gl_1k032A48E94AAE59342A9656ACA74CE6C8.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_nor_gl_1k.uasset'
+[2025.11.12-12.09.44:893][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:893][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_nor_gl_1k]
+[2025.11.12-12.09.44:893][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_nor_gl_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_nor_gl_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:923][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_nor_gl_1k
+[2025.11.12-12.09.44:923][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_nor_gl_1kE1BC9E3644CFCCC7A12BE3BACCBC2263.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_nor_gl_1k.uasset'
+[2025.11.12-12.09.44:924][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_roughness_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:924][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_roughness_1k]
+[2025.11.12-12.09.44:924][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_roughness_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_roughness_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:932][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_roughness_1k
+[2025.11.12-12.09.44:932][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_roughness_1k68C863594E26F6F763661F9171ADEB55.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_roughness_1k.uasset'
+[2025.11.12-12.09.44:933][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_roughness_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:933][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_roughness_1k]
+[2025.11.12-12.09.44:940][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_roughness_1k
+[2025.11.12-12.09.44:940][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_roughness_1kBA22CE2449C9D10D7377B98320BBA29E.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_roughness_1k.uasset'
+[2025.11.12-12.09.44:942][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_02_1k/sofa_02_Seat] ([1] browsable assets)...
+[2025.11.12-12.09.44:942][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_02_1k/sofa_02_Seat]
+[2025.11.12-12.09.44:942][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_02_1k/sofa_02_Seat" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_Seat.uasset" SILENT=true
+[2025.11.12-12.09.44:944][335]LogSavePackage: Moving output files for package: /Game/sofa_02_1k/sofa_02_Seat
+[2025.11.12-12.09.44:944][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_Seat47BA967E4962523ED793B5B636413890.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_02_1k/sofa_02_Seat.uasset'
+[2025.11.12-12.09.44:946][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PP/EMTI6MK3EMJZWUSLCAJELQ
+[2025.11.12-12.09.44:946][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/EMTI6MK3EMJZWUSLCAJELQB234DA1F4E620BB86DACD682F2DA87E4.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PP/EMTI6MK3EMJZWUSLCAJELQ.uasset'
+[2025.11.12-12.09.44:948][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Seat] ([1] browsable assets)...
+[2025.11.12-12.09.44:948][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Seat]
+[2025.11.12-12.09.44:950][335]LogSavePackage: Moving output files for package: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Seat
+[2025.11.12-12.09.44:950][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_02_Seat7CA9B23E4948D38F7A98BAA6A91765F0.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Seat.uasset'
+[2025.11.12-12.09.44:953][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XI/7AN7JXT60770INWZABQX8A
+[2025.11.12-12.09.44:953][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/7AN7JXT60770INWZABQX8AFFE953F342D16EE756B035BAF055B775.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XI/7AN7JXT60770INWZABQX8A.uasset'
+[2025.11.12-12.09.44:954][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03] ([1] browsable assets)...
+[2025.11.12-12.09.44:955][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03]
+[2025.11.12-12.09.44:955][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03.uasset" SILENT=true
+[2025.11.12-12.09.44:958][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03
+[2025.11.12-12.09.44:958][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03186B2F614F4CED3D89C30ABB4E155220.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03.uasset'
+[2025.11.12-12.09.44:961][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/08/NFHAQ8TBZFCWJM1S0NAO47
+[2025.11.12-12.09.44:961][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/NFHAQ8TBZFCWJM1S0NAO471D5AE847483C87D7F764838F7AC6956D.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/08/NFHAQ8TBZFCWJM1S0NAO47.uasset'
+[2025.11.12-12.09.44:962][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:962][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_1k]
+[2025.11.12-12.09.44:962][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:969][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_1k
+[2025.11.12-12.09.44:969][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_1k93319E724FF7F2FAF35F0CA6632AA6D0.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_1k.uasset'
+[2025.11.12-12.09.44:971][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GK/CBBAUURTAOXODEYDGZ8ZF3
+[2025.11.12-12.09.44:971][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/CBBAUURTAOXODEYDGZ8ZF3E3015ED64A8F13FFFC5D599B4901199C.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/GK/CBBAUURTAOXODEYDGZ8ZF3.uasset'
+[2025.11.12-12.09.44:973][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IM/ZMG9CRMN4PVCR67HY4X335
+[2025.11.12-12.09.44:973][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/ZMG9CRMN4PVCR67HY4X3357DB1096F4EF79539A593D299D506E81F.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IM/ZMG9CRMN4PVCR67HY4X335.uasset'
+[2025.11.12-12.09.44:975][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T9/9UC5DQZM54K40OWQG0T61Q
+[2025.11.12-12.09.44:975][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/9UC5DQZM54K40OWQG0T61QF5F7E24F4632ADDB651006B372150B06.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T9/9UC5DQZM54K40OWQG0T61Q.uasset'
+[2025.11.12-12.09.44:977][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.44:977][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_diff_1k]
+[2025.11.12-12.09.44:977][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_diff_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_diff_1k.uasset" SILENT=true
+[2025.11.12-12.09.44:995][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_diff_1k
+[2025.11.12-12.09.44:995][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_diff_1kF9E21CF143D445314E94C7B7E390522A.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_diff_1k.uasset'
+[2025.11.12-12.09.44:997][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_fringe] ([1] browsable assets)...
+[2025.11.12-12.09.44:997][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_fringe]
+[2025.11.12-12.09.44:997][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_fringe" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_fringe.uasset" SILENT=true
+[2025.11.12-12.09.45:000][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_fringe
+[2025.11.12-12.09.45:000][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_fringe41FEE4A347A44489D4094C932D0287CB.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_fringe.uasset'
+[2025.11.12-12.09.45:002][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:002][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_nor_gl_1k]
+[2025.11.12-12.09.45:002][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_nor_gl_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_nor_gl_1k.uasset" SILENT=true
+[2025.11.12-12.09.45:024][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_nor_gl_1k
+[2025.11.12-12.09.45:024][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_nor_gl_1k9E5458DF4DA89914FBA317B93D4E9851.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_nor_gl_1k.uasset'
+[2025.11.12-12.09.45:025][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_opacity_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:025][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_opacity_1k]
+[2025.11.12-12.09.45:025][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_opacity_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_opacity_1k.uasset" SILENT=true
+[2025.11.12-12.09.45:028][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_opacity_1k
+[2025.11.12-12.09.45:028][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_opacity_1k9ECFDED64F226208FC919485BFED8B94.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_opacity_1k.uasset'
+[2025.11.12-12.09.45:029][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sofa_03_1k/sofa_03_rough_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:029][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/sofa_03_1k/sofa_03_rough_1k]
+[2025.11.12-12.09.45:029][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sofa_03_1k/sofa_03_rough_1k" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_rough_1k.uasset" SILENT=true
+[2025.11.12-12.09.45:039][335]LogSavePackage: Moving output files for package: /Game/sofa_03_1k/sofa_03_rough_1k
+[2025.11.12-12.09.45:039][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/sofa_03_rough_1k9CD2C9754C81E47CB411D08C9A83E350.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/sofa_03_1k/sofa_03_rough_1k.uasset'
+[2025.11.12-12.09.45:040][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01] ([1] browsable assets)...
+[2025.11.12-12.09.45:040][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01]
+[2025.11.12-12.09.45:043][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01
+[2025.11.12-12.09.45:043][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01F5CD3F4F425A3A48A42E24B0495556E6.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01.uasset'
+[2025.11.12-12.09.45:045][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PT/RYE3U2CDKWK3XTVJWVS1O0
+[2025.11.12-12.09.45:045][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/RYE3U2CDKWK3XTVJWVS1O0069443334B22EE44D6D0518BF21F79F2.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PT/RYE3U2CDKWK3XTVJWVS1O0.uasset'
+[2025.11.12-12.09.45:047][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:047][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_1k]
+[2025.11.12-12.09.45:052][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_1k
+[2025.11.12-12.09.45:053][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01_1k6AC56A79438C89F195EECB8791E2B697.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01_1k.uasset'
+[2025.11.12-12.09.45:055][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HD/ETT7RIU2YHUKH140YKC56Z
+[2025.11.12-12.09.45:055][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/ETT7RIU2YHUKH140YKC56ZABCAAD974EE6E22880A3A7AB84B8E11A.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HD/ETT7RIU2YHUKH140YKC56Z.uasset'
+[2025.11.12-12.09.45:056][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:056][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_diff_1k]
+[2025.11.12-12.09.45:074][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_diff_1k
+[2025.11.12-12.09.45:074][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01_diff_1k5F473DDB4287CA29CE1D85B68A7C1F56.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01_diff_1k.uasset'
+[2025.11.12-12.09.45:075][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_metal_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:075][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_metal_1k]
+[2025.11.12-12.09.45:079][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_metal_1k
+[2025.11.12-12.09.45:079][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01_metal_1k6D5F7DC7436D7EEDC39327BB99AF1645.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01_metal_1k.uasset'
+[2025.11.12-12.09.45:080][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:080][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_nor_gl_1k]
+[2025.11.12-12.09.45:103][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_nor_gl_1k
+[2025.11.12-12.09.45:103][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01_nor_gl_1kD8C9E35D41E2E32B77346E9D64628FCA.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01_nor_gl_1k.uasset'
+[2025.11.12-12.09.45:104][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_rough_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:104][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_rough_1k]
+[2025.11.12-12.09.45:114][335]LogSavePackage: Moving output files for package: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_rough_1k
+[2025.11.12-12.09.45:114][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/steel_frame_shelves_01_rough_1k31D3ED2B4CC5C0A893C9B8975FB0E7DD.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/steel_frame_shelves_01_1k/steel_frame_shelves_01_rough_1k.uasset'
+[2025.11.12-12.09.45:115][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01] ([1] browsable assets)...
+[2025.11.12-12.09.45:115][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01]
+[2025.11.12-12.09.45:115][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WoodenChair_01_1k/WoodenChair_01" FILE="C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01.uasset" SILENT=true
+[2025.11.12-12.09.45:118][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01
+[2025.11.12-12.09.45:118][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01878C3D5B415F5CEF4D003A840ABA1132.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01.uasset'
+[2025.11.12-12.09.45:120][335]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/LYT66EQJVCB39PLVFNL6IA
+[2025.11.12-12.09.45:120][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/LYT66EQJVCB39PLVFNL6IADC7067344F79B45FD2BFD0BC17731670.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3O/LYT66EQJVCB39PLVFNL6IA.uasset'
+[2025.11.12-12.09.45:122][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:122][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01_1k]
+[2025.11.12-12.09.45:136][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01_1k
+[2025.11.12-12.09.45:136][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01_1k01567EE0475D919DEB9931A03274D410.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01_1k.uasset'
+[2025.11.12-12.09.45:137][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01_diff_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:137][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01_diff_1k]
+[2025.11.12-12.09.45:156][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01_diff_1k
+[2025.11.12-12.09.45:157][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01_diff_1k2A71AE01470241955879BDA624862860.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01_diff_1k.uasset'
+[2025.11.12-12.09.45:158][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01_metallic_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:158][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01_metallic_1k]
+[2025.11.12-12.09.45:161][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01_metallic_1k
+[2025.11.12-12.09.45:161][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01_metallic_1k2EC5961344C85D368F28EBA2C0E7B3B6.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01_metallic_1k.uasset'
+[2025.11.12-12.09.45:162][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01_nor_gl_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:162][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01_nor_gl_1k]
+[2025.11.12-12.09.45:188][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01_nor_gl_1k
+[2025.11.12-12.09.45:189][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01_nor_gl_1kF0D8B06A4D7AF6B7B3F320AD26D08C3C.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01_nor_gl_1k.uasset'
+[2025.11.12-12.09.45:189][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WoodenChair_01_1k/WoodenChair_01_roughness_1k] ([1] browsable assets)...
+[2025.11.12-12.09.45:189][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/WoodenChair_01_1k/WoodenChair_01_roughness_1k]
+[2025.11.12-12.09.45:198][335]LogSavePackage: Moving output files for package: /Game/WoodenChair_01_1k/WoodenChair_01_roughness_1k
+[2025.11.12-12.09.45:198][335]LogSavePackage: Moving 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Saved/WoodenChair_01_roughness_1k76BE0F834845ADC36DBF45BEB88475CD.tmp' to 'C:/Users/TEMP.AUSTD.022/Documents/GitHub/Game-Design/MyProject/Content/WoodenChair_01_1k/WoodenChair_01_roughness_1k.uasset'
+[2025.11.12-12.09.45:214][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 886.258 ms
+[2025.11.12-12.09.45:251][335]LogStall: Shutdown...
+[2025.11.12-12.09.45:251][335]LogStall: Shutdown complete.
+[2025.11.12-12.09.45:350][335]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.11.12-12.09.45:351][335]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.12-12.09.45:569][335]LogContentValidation: Display: Starting to validate 78 assets
+[2025.11.12-12.09.45:569][335]LogContentValidation: Enabled validators:
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-12.09.45:569][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-12.09.45:569][335]AssetCheck: /Game/gothic_coffee_table_1k/gothic_coffee_table Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/gothic_coffee_table_1k/gothic_coffee_table_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01 Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_diff_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01_diff_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_diff_1k_Mat Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_metallic_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01_metallic_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:570][335]AssetCheck: /Game/GothicBed_01_1k/GothicBed_01_roughness_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/GothicBed_01_roughness_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Anim Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_PhysicsAsset Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_1k_Skeleton Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_diff_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/modern_wooden_cabinet_rough_1k Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/sofa_02_1k/sofa_02 Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02 Validating asset
+[2025.11.12-12.09.45:571][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Base Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_Base Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_diff_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_diff_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_metallic_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_metallic_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_roughness_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_roughness_1k Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/sofa_02_1k/sofa_02_Seat Validating asset
+[2025.11.12-12.09.45:572][335]AssetCheck: /Game/modern_wooden_cabinet_1k/sofa_02_1k/sofa_02_Seat Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03 Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_diff_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_fringe Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_opacity_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/sofa_03_1k/sofa_03_rough_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01 Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_diff_1k Validating asset
+[2025.11.12-12.09.45:573][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_metal_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/steel_frame_shelves_01_1k/steel_frame_shelves_01_rough_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01 Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01_diff_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01_metallic_1k Validating asset
+[2025.11.12-12.09.45:574][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01_nor_gl_1k Validating asset
+[2025.11.12-12.09.45:575][335]AssetCheck: /Game/WoodenChair_01_1k/WoodenChair_01_roughness_1k Validating asset
+[2025.11.12-12.09.45:581][335]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 3783.394531
+[2025.11.12-12.09.45:581][335]Cmd: QUIT_EDITOR
+[2025.11.12-12.09.45:581][335]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.12-12.09.45:597][336]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.12-12.09.45:597][336]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.12-12.09.45:597][336]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.12-12.09.45:599][336]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:599][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:599][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.11.12-12.09.45:605][336]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.12-12.09.45:606][336]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.12-12.09.45:672][336]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:673][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:673][336]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:673][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:673][336]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:673][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:673][336]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:673][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:673][336]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:674][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:674][336]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:674][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:674][336]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-12.09.45:674][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-12.09.45:674][336]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.12-12.09.45:676][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.11.12-12.09.45:676][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.11.12-12.09.45:676][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.11.12-12.09.45:943][336]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.12-12.09.45:943][336]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.12-12.09.45:943][336]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.11.12-12.09.45:943][336]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.12-12.09.45:943][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.12-12.09.45:945][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.12-12.09.45:955][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.12-12.09.45:955][336]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.12-12.09.45:958][336]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.12-12.09.45:958][336]LogExit: Preparing to exit.
+[2025.11.12-12.09.45:978][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.11.12-12.09.46:485][336]LogEditorDataStorage: Deinitializing
+[2025.11.12-12.09.46:542][336]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.12-12.09.46:558][336]LogExit: Editor shut down
+[2025.11.12-12.09.46:560][336]LogExit: Transaction tracking system shut down
+[2025.11.12-12.09.46:672][336]LogExit: Object subsystem successfully closed.
+[2025.11.12-12.09.46:736][336]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.12-12.09.47:103][336]LogMemoryProfiler: Shutdown
+[2025.11.12-12.09.47:103][336]LogNetworkingProfiler: Shutdown
+[2025.11.12-12.09.47:103][336]LoadingProfiler: Shutdown
+[2025.11.12-12.09.47:103][336]LogTimingProfiler: Shutdown
+[2025.11.12-12.09.47:461][336]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.12-12.09.47:466][336]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.11.12-12.09.47:466][336]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.12-12.09.47:466][336]RenderDocPlugin: plugin has been unloaded.
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98F994C1-400F-1353-7B20-2E9DA5825CC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=4b9a4fd74fc1f7f7d03c028d5b30594b%7C%7C10c8806b-7b1c-4122-8409-4c2989f04230&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98F994C1-400F-1353-7B20-2E9DA5825CC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=4b9a4fd74fc1f7f7d03c028d5b30594b%7C%7C10c8806b-7b1c-4122-8409-4c2989f04230&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: request failed, libcurl error: 35 (SSL connect error)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 0 (  Trying 54.91.128.163:443...)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (54.91.128.163) port 443)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 2 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 5 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 6 (Closing connection)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 7 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02D200: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: request failed, libcurl error: 35 (SSL connect error)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 0 (Found bundle for host: 0x420a3040870 [serially])
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 2 (  Trying 54.91.128.163:443...)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.91.128.163) port 443)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 4 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 7 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 8 (Closing connection)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:482][336]LogHttp: Warning: 000004211A02A100: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAFF44EFC-494E-815E-4988-A798A666DECA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 1 (  Trying 44.216.85.45:443...)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 2 (Connected to api.epicgames.dev (44.216.85.45) port 443)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: 0000042108E3A800: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.47:485][336]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAFF44EFC-494E-815E-4988-A798A666DECA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: invalid HTTP response code received. URL: https://api.epicgames.dev/sdk/v1/default?platformId=WIN, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 1 (  Trying 44.216.85.45:443...)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 2 (Connected to api.epicgames.dev (44.216.85.45) port 443)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: 0000042108E38A00: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/default?platformId=WIN
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetPlatformConfigRoute], Url=[<Redacted>]
+[2025.11.12-12.09.47:979][336]LogEOSSDK: Warning: LogEOS: SDK Config Platform Update Request Failed, Result Code: EOS_NoConnection, Retrying after 8.393079 seconds
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAFF44EFC-494E-815E-4988-A798A666DECA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 1 (  Trying 44.216.85.45:443...)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 2 (Connected to api.epicgames.dev (44.216.85.45) port 443)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 9 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E31800: libcurl info message cache 10 (Closing connection)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BAFF44EFC-494E-815E-4988-A798A666DECA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 0 (Found bundle for host: 0x42114080300 [serially])
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 2 (  Trying 44.216.85.45:443...)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 3 (Connected to api.epicgames.dev (44.216.85.45) port 443)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 4 (ALPN: curl offers http/1.1)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2025.11.12-12.09.48:513][336]LogEOSSDK: Warning: LogHttp: 0000042108E32A00: libcurl info message cache 11 (Closing connection)
+[2025.11.12-12.09.48:545][336]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.12-12.09.48:562][336]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.12-12.09.48:562][336]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.12-12.09.48:562][336]LogPakFile: Destroying PakPlatformFile
+[2025.11.12-12.09.48:715][336]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.12-12.09.48:768][336]LogExit: Exiting.
+[2025.11.12-12.09.48:794][336]Log file closed, 11/12/25 17:09:48
